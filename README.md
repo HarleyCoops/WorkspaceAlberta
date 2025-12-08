@@ -1,56 +1,132 @@
-# WorkspaceAlberta
+# Alberta Workforce Workspace
 
-Shareable Cursor workspace templates for specific user cohorts with MCP configurations and secure key management.
+This repository is where we build a **workspace** tailored to your business.
 
-## Overview
+A workspace is a place where we connect the tools you already use to an intelligent assistant so we can create a real solution to a real problem.
 
-WorkspaceAlberta enables you to create and share customized Cursor IDE workspaces for specific audiences (cohorts) like small business owners, developers, or teams. When someone clones this repo, they get:
+Before we build anything, we start with only two things:
 
-- Pre-configured MCP server connections
-- Custom Cursor rules and settings
-- Cohort-specific layouts and themes
-- Secure key management (no exposed API keys)
+1. **A list of the tools and systems your business uses**
+2. **A clear description of one problem you wish you could finally solve**
 
-## Quick Start
+You do **not** need to know anything technical.
+You do **not** need to describe steps or workflows.
+You do **not** need to tell us how you currently do the work.
 
-1. Clone this repository
-2. Copy `.env.example` to `.env`
-3. Add your API keys to `.env`
-4. Open in Cursor - workspace settings apply automatically
+This is about the *problem*, not the process.
 
-## Project Structure
+---
+
+## 1. List every tool or system you use
+
+Create or edit the file:
+
+**`owner-tools-list.md`**
+
+Write down the names of:
+
+- Any software you use daily or monthly
+- Any system you log into
+- Any internal or custom tool
+- Any place where information lives
+- Any tool connected to a recurring business issue
+
+Examples:
 
 ```
-WorkspaceAlberta/
-├── .cursor/
-│   └── rules/
-│       └── small-business.mdc     # Cohort-specific rules
-├── .env.example                    # Template for required keys
-├── mcp-config.template.json        # MCP config with ${VAR} placeholders
-├── setup.ps1 / setup.sh           # One-click setup script
-├── README.md                       # This file
-└── docs/
-    └── getting-started.md
+Google Drive
+Gmail
+Slack
+QuickBooks Online
+Stripe
+Shopify
+Notion
+Monday.com
+A custom scheduling portal
+Excel sheets stored on a server
 ```
 
-## Cohorts
+A simple list is perfect.
+The goal is to create a complete picture of the systems that might relate to your problem.
 
-### Small Business Owners (Initial Focus)
-- Simplified MCP connections (calendar, email, basic automation)
-- Clean, non-technical layout
-- Pre-configured tools for common business tasks
+---
 
-## Key Management
+## 2. Describe one specific problem you wish you could solve
 
-API keys are never committed to the repository. Instead:
+Create or edit the file:
 
-1. Keys are stored in local `.env` file (git-ignored)
-2. MCP configs reference environment variables
-3. `.env.example` documents required keys without values
+**`monthly-pain-point.md`**
 
-## Status
+Here, describe **a single business problem**, in plain language, as if speaking to someone helping you.
 
-[Active Development] - See [project tracking](https://github.com/HarleyCoops/Daily) for task T-2025-12-001
+### Important:
+You are **not** describing:
+
+- The steps you follow today
+- Your current workflow
+- The tasks involved
+- Any technical details
+- How things "should" work
+
+### Instead, describe **the problem itself** - the thing you wish you could finally solve.
+
+Use prompts like:
+
+- "I wish I could finally solve..."
+- "I wish AI could take care of..."
+- "The problem that keeps coming up is..."
+- "Every month we struggle with..."
+
+### Examples:
+
+```markdown
+I wish I could finally solve the problem of keeping customer follow-ups consistent.
+People fall through the cracks and I never have a clear view of who needs attention.
+
+I wish AI could help me solve the problem of always being behind on cash flow visibility.
+
+I wish we could solve the issue of job statuses being scattered across multiple systems
+and never up to date.
+
+I wish I could solve the problem of supplier invoices not matching what ends up
+recorded in our payment system.
+```
+
+**Tools involved (if you know them):**
+- Shopify
+- QuickBooks
+- Slack
+- Google Drive
+
+That's all we need.
+
+One problem. Stated clearly. No steps. No explanation of what you do today.
+
+---
+
+## 3. What happens next
+
+Once you've added:
+
+- `owner-tools-list.md`
+- `monthly-pain-point.md`
+
+We will:
+
+1. **Build a personalized workspace** based on the tools you listed
+2. **Connect only the systems that matter** to your problem
+3. **Use this workspace, together**, to design and build the actual solution
+
+You don't need to architect anything.
+
+Your job is simply to:
+
+1. List your tools
+2. Identify one business problem you wish you could finally solve
+
+Everything else - design, integration, automation, and intelligence - happens here in the workspace.
+
+---
 
 ## License
 
