@@ -1,0 +1,984 @@
+title-titre-eng,title-titre-fra,referenceNumber-numeroReference,amendmentNumber-numeroModification,solicitationNumber-numeroSollicitation,publicationDate-datePublication,tenderClosingDate-appelOffresDateCloture,amendmentDate-dateModification,expectedContractStartDate-dateDebutContratPrevue,expectedContractEndDate-dateFinContratPrevue,tenderStatus-appelOffresStatut-eng,tenderStatus-appelOffresStatut-fra,gsin-nibs,gsinDescription-nibsDescription-eng,gsinDescription-nibsDescription-fra,unspsc,unspscDescription-eng,unspscDescription-fra,procurementCategory-categorieApprovisionnement,noticeType-avisType-eng,noticeType-avisType-fra,procurementMethod-methodeApprovisionnement-eng,procurementMethod-methodeApprovisionnement-fra,selectionCriteria-criteresSelection-eng,selectionCriteria-criteresSelection-fra,limitedTenderingReason-raisonAppelOffresLimite-eng,limitedTenderingReason-raisonAppelOffresLimite-fra,tradeAgreements-accordsCommerciaux-eng,tradeAgreements-accordsCommerciaux-fra,regionsOfOpportunity-regionAppelOffres-eng,regionsOfOpportunity-regionAppelOffres-fra,regionsOfDelivery-regionsLivraison-eng,regionsOfDelivery-regionsLivraison-fra,contractingEntityName-nomEntitContractante-eng,contractingEntityAddressLine-ligneAdresseEntiteContractante-eng,contractingEntityAddressCity-entiteContractanteAdresseVille-eng,contractingEntityAddressProvince-entiteContractanteAdresseProvince-eng,contractingEntityAddressPostalCode-entiteContractanteAdresseCodePostal,contractingEntityAddressCountry-entiteContractanteAdressePays-eng,contractingEntityName-nomEntitContractante-fra,contractingEntityAddressLine-ligneAdresseEntiteContractante-fra,contractingEntityAddressCity-entiteContractanteAdresseVille-fra,contractingEntityAddressProvince-entiteContractanteAdresseProvince-fra,contractingEntityAddressCountry-entiteContractanteAdressePays-fra,endUserEntitiesName-nomEntitesUtilisateurFinal-eng,endUserEntitiesAddress-adresseEntitesUtilisateurFinal-eng,endUserEntitiesName-nomEntitesUtilisateurFinal-fra,endUserEntitiesAddress-adresseEntitesUtilisateurFinal-fra,contactInfoName-informationsContactNom,contactInfoEmail-informationsContactCourriel,contactInfoPhone-contactInfoTelephone,contactInfoFax,contactInfoAddressLine-contactInfoAdresseLigne-eng,contactInfoCity-contacterInfoVille-eng,contactInfoProvince-contacterInfoProvince-eng,contactInfoPostalcode,contactInfoCountry-contactInfoPays-eng,contactInfoAddressLine-contactInfoAdresseLigne-fra,contactInfoCity-contacterInfoVille-fra,contactInfoProvince-contacterInfoProvince-fra,contactInfoCountry-contactInfoPays-fra,noticeURL-URLavis-eng,noticeURL-URLavis-fra,attachment-piecesJointes-eng,attachment-piecesJointes-fra,tenderDescription-descriptionAppelOffres-eng,tenderDescription-descriptionAppelOffres-fra,match_regions,match_industries,match_codes,match_categories,match_sources,match_keywords,attachment_urls,attachment_working,attachment_missing,attachment_unchecked,attachment_downloaded
+"Phase 2-ITT-EW038-260491 AAFC Exterior Envelope Upgrade Admin Building, Beaverlodge AB","Phase 2–Appel d’offres -EW038-260491 Bâtiment administratif d’AAC pour la mise à niveau de l’enveloppe extérieure, Beaverlodge AB",WS5276433607-Doc5328239563,000,WS5276433607,2025-09-03,2025-09-30T14:00:00,2025-09-04,2025-09-22,2026-11-01,Open,Ouvert,,,,"*30150000
+*30171600
+*30171900","*Exterior finishing materials
+*Windows
+*Window frames","*Matériaux pour les finitions d'extérieur
+*Fenêtres
+*Châssis de fenêtres",*CNST,Invitation to Qualify,Invitation à se qualifier,Competitive - Open bidding,Concurrentielle - Invitation ouverte à soumissionner,Lowest Price,Prix le plus bas,None,,*Canadian Free Trade Agreement (CFTA),*Accord de libre-échange canadien (ALEC),,,*Alberta,*Alberta,Department of Public Works and Government Services (PSPC),"11 Laurier St, Phase III, Place du Portage",Gatineau,Quebec,K1A 0S5,Canada, Ministère des Travaux publics et des Services gouvernementaux (SPAC),"11, rue Laurier, Phase III, Place du Portage",Gatineau,Québec,Canada,Department of Agriculture and Agri-Food (AAFC),"K.W. Neatby Bldg, 960 Carling Ave,Ottawa,Ontario,K1Y4X2,Canada", Ministère de l’Agriculture et de l’Agroalimentaire (AAC),"Édifice K.W. Neatby, 960, avenue Carling,Ottawa,Ontario,K1Y4X2,Canada","Wong, Ben (SPAC/PSPC) (il-lui / he-him)",ben.wong@tpsgc-pwgsc.gc.ca,,,,,,,,,,,,,,,,"Work of this Contract, for the Administrative Building of the Beaverlodge Research Farm, Beaverlodge AB, comprises of the following:
+
+1. Demolition of existing stucco cladding assembly to board sheathing, windows and exterior doors, as well as limited excavation at the building foundation to facilitate waterproofing of the foundation walls. Replacement of exterior light fixtures.
+
+ 
+2. Building envelope improvements for exterior wall cladding, windows, and doors, improved washroom exhaust.
+a) Limited site work to restore existing conditions.
+b) Limited mechanical and electrical work to facilitate envelope improvements.
+
+ 
+The Contractor must perform and complete the Work (substantial completion) by November 1st, 2026.","Modernisation de l’enveloppe du bâtiment administratif Beaverlodge (Alberta). Remplacement de toutes les fenêtres, de l’enveloppe extérieure en stuc, amélioration des barrières contre l’humidité des fondations pour le bâtiment administratif de la ferme expérimentale Beaverlodge. L’entrepreneur doit exécuter et achever les travaux (achèvement substantiel) d’ici le 1er novembre 2026.",Alberta,lumber;steel,30100000,lumber:feeder_downstream;steel:feeder_downstream,unspsc,,,,,,
+"Gondola Fireguard Maintenance, Banff National Park","Entretien du coupe-feu du téléphérique, parc national Banff",cb-576-54577723,000,5P421-25-0054/A,2025-12-23,2026-01-20T16:00:00,,2026-01-26,2026-03-31,Open,Ouvert,,,,"*21102200
+*70150000
+*70151500
+*70151600
+*70151700","*Forestry machinery and equipment
+*Forestry
+*Forestry management
+*Forestry industry
+*Forestry harvesting","*Machines et équipements pour l'exploitation forestière
+*Foresterie
+*Gestion forestière
+*Industrie forestière
+*Exploitation forestière",*SRV,Request for Proposal,Demande de propositions,Competitive - Open bidding,Concurrentielle - Invitation ouverte à soumissionner,Lowest Price,Prix le plus bas,,,"*Canada-Honduras Free Trade Agreement
+*North American Free Trade Agreement (NAFTA)
+*Canada-Korea Free Trade Agreement (CKFTA)
+*Canada-Ukraine Free Trade Agreement (CUFTA)
+*Canada-Panama Free Trade Agreement
+*Canada-Peru Free Trade Agreement (CPFTA)
+*Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+*World Trade Organization Agreement on Government Procurement (WTO GPA)
+*Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+*Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+*Canada-Colombia Free Trade Agreement
+*Canada-Chile Free Trade Agreement (CCFTA)
+*Canadian Free Trade Agreement (CFTA)","*Accord de libre-échange Canada-Honduras
+*Accord de libre-échange nord-américain (ALENA)
+*Accord de libre-échange Canada-Corée
+*Accord de libre-échange Canada-Ukraine (ALECU)
+*Accord de libre-échange Canada-Panama
+*Accord de libre-échange Canada-Pérou (ALECP)
+*Accord de Partenariat transpacifique global et progressiste (PTPGP)
+*Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC)
+*Accord économique et commercial global (AECG) entre le Canada et l’Union européenne (UE)
+*Accord de continuité commerciale Canada–Royaume-Uni (ACC Canada-Royaume-Uni)
+*Accord de libre-échange Canada-Colombie
+*Accord de libre-échange Canada-Chili (ALECC)
+*Accord de libre-échange canadien (ALEC)",*Banff,*Banff,"*Canada
+*Alberta
+*Banff","*Canada
+*Alberta
+*Banff",Parks Canada Agency (PC),216 Hawk Ave,Banff,AB,T1L 1K2,Canada,Agence Parcs Canada (PC),216 Hawk Ave,Banff,AB,Canada,,,,,Emilie Dunbar,emilie.dunbar@pc.gc.ca,(403) 497-6534,403-762-5057,216 Hawk Ave,Banff,AB,T1L 1K2,Canada,216 Hawk Ave,Banff,AB,Canada,,,"https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/integrity-verification-form.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/5p421-25-0054a-rfq.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/appendix-a---eng.pdf","https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/formulaire-de-verification-de-lintegrite.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/5p421-25-0054a-ddp.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/apendice-a---fr.pdf","5P421-25-0054/A 	Gondola Fireguard Maintenance, Banff National Park
+
+BIDS RECEIVED BY FAX AND EMAIL WILL BE ACCEPTED AS OFFICIAL. 
+
+PARKS CANADA IS NOT CURRENTLY ACCEPTING BIDS VIA SAP ARIBA, YOU MUST SUBMIT YOUR BID VIA FAX OR EMAIL AS INDICATED IN THE SOLICITATION DOCUMENT.
+
+BIDS RECEIVED IN-PERSON OR BY COURIER WILL NOT BE ACCEPTED. 
+
+The only acceptable email address for responses to the bid solicitation is BanffContracts@pc.gc.ca. Bids submitted by email directly to the Contracting Authority or to any email address other than BanffContracts@pc.gc.ca will not be accepted. 
+
+The only acceptable facsimile for responses to bid solicitations is 403-762-5057.
+
+The maximum email file size that Parks Canada is capable of receiving is 15 megabytes. The Bidder is responsible for any failure attributable to the transmission or receipt of the emailed bid due to file size.
+
+The Bidder should be cognisant of the size of the email as a whole, and not only the attachments. Please take into consideration that some attachments, when sent, may be resized during the email transfer. If the email size is too large, the Bidder should send the bid in multiple emails properly labeled with the solicitation number, project name, and indicate how many emails are included (ex. 1 of 2).
+
+Emails with links to bid documents will not be accepted. Bid documents must be sent as email attachments.
+
+REQUIREMENT
+
+Parks Canada Agency (PCA) requires the services of a Contractor to complete hand / mechanical treatment of an existing firebreak totaling approximately 12.6ha that was logged in the early 2000’s. It has since then grown in with thick pine regen. The aim is reducing fuel buildup and maintaining a more open meadow structure in the area.
+
+PERIOD OF THE CONTRACT
+
+The period of the Contract is from date of Contract to March 31, 2026 inclusive. 
+
+ENQUIRIES
+
+All enquiries of a technical and contractual nature are to be submitted to the Contracting Authority.
+
+Enquiries regarding this solicitation must be submitted in writing and should be received no later than seven (7) calendar days prior to the date set for solicitation closing to allow sufficient time to provide a response. Enquiries received after that time may result in an answer NOT being provided.
+
+INFORMATION
+
+National Parks Regulations require that all work is to be performed in accordance with the ordinances, laws, rules and regulations set out in the National Park Act.
+
+Bidders that consider themselves qualified to provide this Work and intend to submit bids on this project should obtain documents from the Government Electronic Tendering Service through the Government of Canada tendering service at http://canadabuys.canada.ca/en/tender-opportunities. Addenda, when issued, will be available from the Government of Canada tendering service. Bidders that elect to base their bids on documents obtained from other sources do so at their own risk. Late submissions will not be considered.
+
+The Crown retains the right to negotiate with suppliers on any procurement.
+
+Documents may be submitted in either official language of Canada. Parks Canada has made every effort to provide equivalent documents in both official languages, however, if you find any discrepancies between the English and French documents, please notify the contract officer listed in this opportunity as soon as possible so that we can rectify the situation.
+","5P421-25-0054/A 	Entretien du coupe-feu du téléphérique, parc national Banff
+
+LES SOUMISSIONS REÇUES PAR FAX ET PAR COURRIER ÉLECTRONIQUE SERONT ACCEPTÉES COMME OFFICIELLES. 
+
+ACTUELLEMENT, PARCS CANADA N'ACCEPTE PAS LES SOUMISSIONS VIA SAP ARIBA, VOUS DEVEZ SOUMETTRE VOTRE OFFRE PAR TÉLÉCOPIEUR OU PAR COURRIEL COMME QU’INDIQUÉ DANS LE DOCUMENT DE SOLLICITATION. 
+
+LES SOUMISSIONS REÇUES EN PERSONNE OU PAR COURRIER NE SERONT PAS ACCEPTÉES.
+
+La seule adresse électronique acceptable pour les réponses aux demandes de soumissions est BanffContracts@pc.gc.ca. Les soumissions soumises par courrier électronique directement à l'autorité contractante ou à une adresse électronique autre que BanffContracts@pc.gc.ca ne seront pas acceptées. 
+
+La seule transmission par télécopieur acceptable pour les réponses aux demandes de soumissions est le 403-762-5057.
+
+La taille maximale du fichier de courrier électronique que Parcs Canada est en mesure de recevoir est de 15 mégaoctets. Le soumissionnaire est responsable de toute erreur attribuable à la transmission ou à la réception de la soumission envoyée par courriel en raison de la taille du fichier. 
+
+Le soumissionnaire doit être conscient de la taille du courriel dans son ensemble, et pas seulement des pièces jointes. Veuillez prendre en considération que certaines pièces jointes, lorsqu'elles sont envoyées, peuvent être redimensionnées pendant le transfert du courriel. Si la taille du courriel est trop importante, le soumissionnaire doit envoyer l'offre dans plusieurs courriels correctement étiquetés avec le numéro de la demande, le nom du projet, et indiquer combien de courriels sont inclus (ex. 1 de 2).
+
+Les courriels contenant des liens vers les documents de demandes de soumissions ne seront pas acceptés. Les documents de demandes de soumissions doivent être envoyés sous forme de pièces jointes aux courriels.
+
+BESOIN 
+
+Le projet décrit dans cet énoncé des travaux consiste à effectuer le traitement manuel/mécanique d’un coupe-feu existant d’une superficie totale d’environ 12,6 ha dont les arbres ont été abattus au début des années 2000. Depuis, une régénération de pins denses a envahi la zone déboisée. L’objectif est de réduire l’accumulation de combustible et de maintenir une structure de prairie plus ouverte dans la zone.
+
+PÉRIODE DU CONTRAT
+
+La période du contrat est à partir de la date du contrat jusqu'au 31 mars 2026 inclusivement.
+
+DEMANDES DE RENSEIGNEMENTS
+
+Les demandes de renseignements de nature technique et contractuelle doivent être présentées à l’autorité contractante.
+
+Les demandes de renseignements concernant la présente demande de soumissions doivent être présentées par écrit et devraient être reçues au plus tard dans les sept (7) jours civiles précédents la date de clôture de la demande de soumissions pour accorder suffisamment de temps pour y répondre. Les demandes de renseignements reçues après ce délai risquent de NE PAS recevoir une réponse.
+
+RENSEIGNEMENTS 
+
+Le Règlement sur les parcs nationaux exige que tous les travaux soient effectués en conformité avec les ordonnances, les lois, les règles et les règlements liés à la Loi sur les parcs nationaux.
+
+Les entrepreneurs qui s’estiment qualifiés pour offrir les services en question et qui ont l’intention de présenter une soumission doivent obtenir les documents d’appel d’offres auprès du service d’appels d’offres électroniques du gouvernement à http://canadabuys.canada.ca/fr/occasions-de-marche. Par ailleurs, ils pourront se procurer, par ce service, tout addenda éventuel. Les entreprises qui choisissent de préparer leur offre en se fondant sur des documents provenant d’autres sources le font à leurs propres risques. Les soumissions tardives ne seront pas prises en considération.
+
+L’État se réserve le droit de négocier avec les fournisseurs les conditions de tout marché.
+
+Les documents peuvent être soumis dans l’une ou l’autre des langues officielles. Parcs Canada a mis tous les efforts possibles pour présenter des documents équivalents dans les deux langues officielles, toutefois, si vous trouvez des différences entre les documents anglais et les documents français, s.v.p. veuillez aviser l’agent au contrat dont le nom apparaît sur cette opportunité, le plus tôt possible pour que nous remédiions à la situation. 
+",Alberta,lumber,,,keyword,log,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/integrity-verification-form.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/5p421-25-0054a-rfq.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/appendix-a---eng.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/formulaire-de-verification-de-lintegrite.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/5p421-25-0054a-ddp.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/83132/apendice-a---fr.pdf,,,,
+"Stage 2 - Miscellaneous Demolitions - Banff, Yoho and Kootenay National Parks","Phase 2 – Diverses démolitions - Parcs nationaux Banff, Yoho et Kootenay",cb-331-66406135,000,5P468-25-0210/A,2026-01-13,2026-01-22T16:00:00,,2026-02-02,2026-03-31,Open,Ouvert,,,,*22102000,*Building demolition machinery and equipment,*Machinerie et équipements de démolition,*CNST,Request for Proposal,Demande de propositions,Competitive - Open bidding,Concurrentielle - Invitation ouverte à soumissionner,Lowest Price,Prix le plus bas,,,*Canadian Free Trade Agreement (CFTA),*Accord de libre-échange canadien (ALEC),*Canada,*Canada,*Alberta,*Alberta,Parks Canada Agency (PC),"145 McDermot Ave,",Winnipeg,MB,R3B 0R9,Canada,Agence Parcs Canada (PC),"145 McDermot Ave,",Winnipeg,MB,Canada,,,,,John Umuerri,john.umuerri@pc.gc.ca,(431) 335-6240,1-855-983-1808,"145 McDermot Ave,",Winnipeg,Chief Financial Officer Directorate,R3B 0R9,Canada,"145 McDermot Ave,",Winnipeg,MB,Canada,,,,,"5P468-25-0210/A	Stage 2 -  Miscellaneous Demolitions - Banff, Yoho and Kootenay National Parks
+
+Only qualified suppliers have been invited to bid.
+
+REQUIREMENT
+
+5P468-25-0210/A Stage 1 - Miscellaneous Demolitions - Banff, Yoho and Kootenay National Parks
+
+Parks Canada Agency (PCA) is seeking an experienced Contractor to demolish a variety of structures in multiple locations which includes Banff National Park, Yoho National Park, and Kootenay National Park. Structures identified for demolition have reached the end of their service life and require removal from the National Parks. 
+
+TWO STAGE SELECTION PROCESS 
+
+This posting is the Stage Two of a two-stage solicitation process: the first stage was to evaluate the qualifications of all interested suppliers. The second stage (Stage Two) is to invite the qualified suppliers to provide a financial bid on the project based on the specifications and drawings. 
+
+","5P468-25-0210/A	Phase 2 – Diverses démolitions - Parcs nationaux Banff, Yoho et Kootenay
+
+Seulement les fournisseurs qualifiés ont été invités à soumissionner.
+
+BESOIN 
+
+L’Agence Parcs Canada (APC) recherche un entrepreneur expérimenté pour la démolition de diverses structures dans plusieurs parcs nationaux, dont le parc national Banff, le parc national Yoho et le parc national Kootenay. Les structures visées sont arrivées en fin de vie et doivent être retirées des parcs nationaux.
+
+PROCESSUS DE SÉLECTION EN DEUX PHASES 
+
+Cet affichage est la phase deux d'un processus de sollicitation en deux phases : la première phase consistait à évaluer les qualifications de tous les fournisseurs intéressés. La deuxième phase (phase deux) consiste à inviter les fournisseurs qualifiés à fournir une offre financière sur le projet basée sur les plans et devis. 
+
+",Alberta,steel,22100000,steel:feeder_downstream,unspsc,,,,,,
+ACAN - SyncroSim Support,PAC - Le soutien de SyncroSim,cb-855-48530838,000,NRCan - 5000092655,2026-01-14,2026-01-29T14:00:00,,2026-02-02,2027-01-31,Open,Ouvert,,,,"*80101507
+*81141900
+*81141902
+*81160000","*Information technology consultation services
+*Manufacturing technology research and development services
+*Application or technology research and development service
+*Information Technology Service Delivery","*Services de conseils en informatique
+*Services de recherche et développement en technologies de fabrication
+*Service de recherche et développement d'application ou de technologie
+*Services de technologie informatique",*SRV,Advance Contract Award Notice,Préavis d’attribution du contrat,Advance contract award notice,Préavis d'attribution du contrat,Not applicable,Sans objet,,,"*Canada-Korea Free Trade Agreement (CKFTA)
+*Canada-Peru Free Trade Agreement (CPFTA)
+*Canada-Colombia Free Trade Agreement
+*Canada-Honduras Free Trade Agreement
+*Canadian Free Trade Agreement (CFTA)
+*Canada-Panama Free Trade Agreement
+*Canada-Chile Free Trade Agreement (CCFTA)","*Accord de libre-échange Canada-Corée
+*Accord de libre-échange Canada-Pérou (ALECP)
+*Accord de libre-échange Canada-Colombie
+*Accord de libre-échange Canada-Honduras
+*Accord de libre-échange canadien (ALEC)
+*Accord de libre-échange Canada-Panama
+*Accord de libre-échange Canada-Chili (ALECC)",*World,*Monde,*Alberta,*Alberta,Department of Natural Resources (NRCan),580 Booth,Ottawa,Ontario,K1A 0E4,Canada,Ministère des Ressources naturelles (RNCan),580 rue Booth,Ottawa,Ontario,Canada,,,,,Eric Mande,Eric.Mande@nrcan-rncan.gc.ca,(613) 296-2767,,580 Booth Street,Ottawa,Ontario,K1A 0E4,Canada,580 rue Booth,Ottawa,Ontario,Canada,,,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/84553/acan--nrcan-5000092655.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/84553/pac--nrcan-5000092655_1.pdf,"The Department of Natural Resources Canada (NRCan) replaced the Burn-P3 model which is used to simulate wildfire for evaluating wildfire risk with BurnP3+ in late 2022. BurnP3+ was developed by the Canadian Forestry Service (CFS) as a package that runs on the SyncroSim modeling platform. Since the creation of BurnP3+, the CFS has been using the SyncroSim platform to create numerous other modeling packages. SyncroSim is the property of Apex RMS, a Canadian company. SyncroSim can be set up to “talk” to other models using both scripts (e.g. in R or Python), and existing program executables, which allow outputs from one model to become inputs for the next model, which can be inputs for yet a third model and so on. SyncroSim includes both a Graphical User Interface, and a command-line application programming interface (API), running under both Windows and Linux. As most scientists are proficient in R and/or Python for analytical work, but not literate in C++, this system of model interaction enables the CFS research science community to maintain the code base for these model interaction systems, and to develop and scale modelling workflows for a wide range of users across multiple platforms. 
+
+In addition to general SyncroSim support, the Canadian Forest Service (CFS) is undertaking the development and testing of Linux-based SyncroSim packages, including BurnP3+, in order to enable the fire risk modelling system developed by NRCan as an open-source package to operate on High-Performance Computing (HPC) clusters, such as those maintained by the CFS. To date, development of these packages has primarily focused on the Windows operating system; however, HPC environments operate on Linux, necessitating additional development, testing, and technical adaptation. As a result, ongoing guidance and technical support from Apex RMS is required to support the development, testing, configuration, and deployment of SyncroSim packages in a Linux operating system environment.
+
+NRCan requires the ongoing and on-demand support for the SyncroSim platform to help with the following types of tasks:
+
+a.	Answer questions regarding base SyncroSim functionality
+b.	Provide guidance and technical support to assist with the development and testing of SyncroSim packages, including BurnP3+, for use in Linux operating system environments.
+c.	Provide guidance on the configuration and parameterization of SyncroSim-based models to support correct execution and performance when deployed in Linux and High-Performance Computing (HPC) environments.
+d.	Provide guidance and training in the development of SyncroSim packages 
+e.	Assistance for configuration and parameterization of SyncroSim-based models
+f.	Participation at scientific meetings and writing of publications and reports describing studies based on SyncroSim and Linux-based and HPC-enabled execution of SyncroSim packages.
+g.	Providing support at training workshops (in-person, or on-line)
+","Le ministère des Ressources naturelles du Canada (RNCan) a remplacé le modèle Burn-P3, utilisé pour simuler des feux de forêt afin d’en évaluer le risque, par BurnP3+ à la fin de 2022. BurnP3+ a été élaboré par le Service canadien des forêts (SCF) comme progiciel exploité sur la plateforme de modélisation SyncroSim. Depuis la création de BurnP3+, le SCF utilise la plateforme SyncroSim pour créer de nombreux autres programmes de modélisation. SyncroSim appartient à Apex RMS, une société canadienne. SyncroSim peut être configuré pour « dialoguer » avec d’autres modèles à l’aide de scripts (comme en R ou en Python) et d’exécutables de programmes existants, ce qui permet aux sorties d’un modèle de devenir des entrées pour le modèle suivant dont les sorties peuvent servir d’entrées pour un troisième modèle, et ainsi de suite. SyncroSim comprend à la fois une interface utilisateur graphique et une interface de programmation d’applications (IPA) de ligne de commande, fonctionnant avec Windows et Linux. Comme la plupart des scientifiques maîtrisent R ou Python dans le cadre de leurs travaux analytiques, mais pas C++, ce système d’interaction des modèles permet à la communauté scientifique du SCF de maintenir la base de code pour ces systèmes d’interaction des modèles, et de créer et de mettre à l’échelle des flux de travail de modélisation pour un vaste éventail d’utilisateurs sur plusieurs plateformes. 
+Outre le soutien général de SyncroSim, le Service canadien des forêts (SCF) se charge de l’élaboration et de la mise à l’essai des progiciels SyncroSim exploités sur Linux, notamment BurnP3+, afin de permettre au système de modélisation des risques de feu créé par RNCan comme progiciel ouvert de fonctionner sur des grappes de calcul de haute performance (CHP), comme celles maintenues par le SCF. Jusqu’à présent, l’élaboration de ces progiciels a principalement mis l’accent sur le système d’exploitation Windows; cependant, les environnements de CHP fonctionnent sous Linux, ce qui nécessite un développement, des essais et une adaptation technique supplémentaires. Ainsi, il est nécessaire d’obtenir des conseils et un soutien technique permanents de la part d’Apex RMS pour soutenir le développement, les essais, la configuration et le déploiement des progiciels SyncroSim dans un environnement de système d’exploitation Linux.
+
+RNCan a besoin d’un soutien permanent et à la demande pour la plateforme SyncroSim afin de l’aider dans le cadre des types de tâches suivants :
+
+a.	Répondre aux questions concernant les fonctionnalités de base de SyncroSim.
+b.	Fournir des conseils et un soutien technique pour participer au développement et au test des progiciels SyncroSim, y compris BurnP3+, afin qu’ils soient utilisés dans des environnements de système d’exploitation Linux.
+c.	Fournir des conseils sur la configuration et la paramétrisation des modèles reposant sur SyncroSim afin de soutenir une exécution et un rendement corrects lors d’un déploiement dans des environnements Linux et de calcul de haute performance (CHP).
+d.	Fournir des conseils et une formation concernant le développement des progiciels SyncroSim.
+e.	Participer à la configuration et au paramétrage des modèles reposant sur SyncroSim.
+f.	Participer à des réunions scientifiques et rédiger des publications et des rapports décrivant des études reposant sur l’exécution de progiciels SyncroSim sur SyncroSim, Linux et le CHP. 
+g.	Fournir un soutien lors des ateliers de formation (en personne ou en ligne)
+",Alberta,lumber,,,keyword,log,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/84553/acan--nrcan-5000092655.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/84553/pac--nrcan-5000092655_1.pdf,,,,
+M5000-234619 Enclosed Trailers,M5000-234619 Remorques fermées,WS4015512721-Doc4109106400,004,WS4015512721,2023-09-28,2028-01-31T09:00:00,2024-10-17,2023-09-28,2028-06-03,Open,Ouvert,,,,*25181700,*Product and material trailers,*Remorques pour marchandises et matériaux,*GD,Request for Supply Arrangement,Demande pour un arrangement en matière d’approvisionnement,Competitive - Open bidding,Concurrentielle - Invitation ouverte à soumissionner,Not applicable,Sans objet,None,,"*Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+*Canadian Free Trade Agreement (CFTA)
+*World Trade Organization Agreement on Government Procurement (WTO GPA)
+*Canada-Chile Free Trade Agreement (CCFTA)
+*Canada-Peru Free Trade Agreement (CPFTA)
+*Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+*Canada-Ukraine Free Trade Agreement (CUFTA)
+*Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+*Canada-Colombia Free Trade Agreement
+*Canada-Honduras Free Trade Agreement
+*Canada-Panama Free Trade Agreement
+*Canada-Korea Free Trade Agreement (CKFTA)
+*North American Free Trade Agreement (NAFTA)","*Accord de Partenariat transpacifique global et progressiste (PTPGP)
+*Accord de libre-échange canadien (ALEC)
+*Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC)
+*Accord de libre-échange Canada-Chili (ALECC)
+*Accord de libre-échange Canada-Pérou (ALECP)
+*Accord économique et commercial global (AECG) entre le Canada et l’Union européenne (UE)
+*Accord de libre-échange Canada-Ukraine (ALECU)
+*Accord de continuité commerciale Canada–Royaume-Uni (ACC Canada-Royaume-Uni)
+*Accord de libre-échange Canada-Colombie
+*Accord de libre-échange Canada-Honduras
+*Accord de libre-échange Canada-Panama
+*Accord de libre-échange Canada-Corée
+*Accord de libre-échange nord-américain (ALENA)",,,"*Manitoba
+*Alberta
+*Saskatchewan","*Manitoba
+*Alberta
+*Saskatchewan",Department of Public Works and Government Services (PSPC),"11 Laurier St, Phase III, Place du Portage",Gatineau,Quebec,K1A 0S5,Canada, Ministère des Travaux publics et des Services gouvernementaux (SPAC),"11, rue Laurier, Phase III, Place du Portage",Gatineau,Québec,Canada,Royal Canadian Mounted Police (RCMP),"73 Leikin Dr,Ottawa,Ontario,K1AOR2,Canada", Gendarmerie royale du Canada (GRC),"73, promenade Leikin,Ottawa,Ontario,K1AOR2,Canada","Popp, Jared (SPAC/PSPC) (il-lui / he-him)",jared.popp@tpsgc-pwgsc.gc.ca,,,,,,,,,,,,https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/17580247?anId=ANONYMOUS,https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/17580247?anId=ANONYMOUS,,,"Qualification: A Notice will be posted continuously until 31 January 2028, 2:00pm EST on the Government Electronic Tendering Service (GETS) to allow new Suppliers to become qualified. Existing qualified Suppliers, who have been issued a supply arrangement, will not be required to submit a new arrangement. Arrangements must only be submitted through CanadaBuys (SAP Ariba) by the date and time indicated in the bid solicitation. All arrangements submitted through other means will neither be accepted nor considered. The Royal Canadian Mounted Police (RCMP) has an as and when requested requirements for the supply and delivery of the latest model enclosed trailers with specific trailer configurations in accordance with the specifications within. All trailers must abide by the provincial and federal safety, security and environmental rules and regulations. The delivery locations are Alberta, Manitoba, and Saskatchewan and the Supply Arrangement will be for a period of 5 years.","Qualification : Afin de permettre à de nouveaux fournisseurs de se qualifier, un avis sera publié jusqu’au 31 Janvier 2028 14h00 HNE sur le Service électronique d’appels d’offres du gouvernement (SEAOG). Les fournisseurs préqualifiés, auxquels un AMA a été émis, ne seront pas tenus de soumettre un nouvel arrangement. Les arrangements doivent être présentés uniquement dans AchatsCanada (SAP Ariba) au plus tard à la date et à l’heure indiquées dans la demande de soumissions. Les arrangements transmis par d’autres moyens seront rejetés d’emblée. La Gendarmerie royale du Canada (GRC) a des besoins sur demande relativement à la fourniture et à la livraison de remorques fermées du plus récent modèle, avec des configurations de remorque spécifiques conformément aux spécifications dans le présent document. Toutes les remorques doivent respecter les règles et la réglementation provinciales et fédérales en matière de sûreté, de sécurité et d’environnement. Les lieux de livraison sont situés en Alberta, au Manitoba et en Saskatchewan, et l’arrangement en matière d’approvisionnement vise une période de cinq (5) ans.",Alberta,steel,25100000,steel:feeder_downstream,unspsc,,,,,,
+Medium/Large Vessel Recycling Services,Recyclage de bâtiments de tailles moyennes et grandes,PW-_MER-005-29423,000,EVC01-202003/C,2025-01-06,2029-03-30T14:00:00,,,,Open,Ouvert,*C216C,*Marine Architect and Engineering Services,*Services d'architecture et d'ingénierie,,,,*SRV,Request for Proposal,Demande de propositions,Competitive - Open bidding,Concurrentielle - Invitation ouverte à soumissionner,Subsequent/Follow-on Contracts,Marchés subséquents,,,"*Canadian Free Trade Agreement (CFTA)
+*Canada-Panama Free Trade Agreement
+*Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+*Canada-Peru Free Trade Agreement (CPFTA)
+*Canada-Korea Free Trade Agreement (CKFTA)
+*Canada-Colombia Free Trade Agreement
+*World Trade Organization Agreement on Government Procurement (WTO GPA)
+*Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+*Canada-European Union Comprehensive Economic and Trade Agreement (CETA)","*Accord de libre-échange canadien (ALEC)
+*Accord de libre-échange Canada-Panama
+*Accord de continuité commerciale Canada-Royaume-Uni (ACC Canada-Royaume-Uni)
+*Accord de libre-échange Canada-Pérou (ALECP)
+*Accord de libre-échange Canada-Corée
+*Accord de libre-échange Canada-Colombie
+*Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC)
+*Accord de Partenariat transpacifique global et progressiste (PTPGP)
+*Accord économique et commercial global (AECG) entre le Canada et l’Union européenne (UE)",,,"*New Brunswick
+*National Capital Region (NCR)
+*Saskatchewan
+*Northwest Territories
+*Manitoba
+*Yukon
+*Alberta
+*Prince Edward Island
+*Nova Scotia
+*British Columbia
+*Nunavut Territory
+*Quebec (except NCR)
+*Ontario (except NCR)
+*Newfoundland and Labrador","*Nouveau-Brunswick
+*Région de la capitale nationale (RCN)
+*Saskatchewan
+*Territoires du Nord-Ouest
+*Manitoba
+*Yukon
+*Alberta
+*Île-du-Prince-Édouard
+*Nouvelle-Écosse
+*Colombie-Britannique
+*Territoire du Nunavut
+*Québec (sauf RCN)
+*Ontario (sauf RCN)
+*Terre-Neuve-et-Labrador",Public Works and Government Services Canada,"11 Laurier St, Phase III, Place du Portage",Gatineau,Quebec,K1A 0S5,Canada,Travaux publics et Services gouvernementaux Canada,"11, rue Laurier, Phase III, Place du Portage",Gatineau,Québec,Canada,Public Works and Government Services Canada,"11 Laurier St, Phase III, Place du Portage,Gatineau,Quebec,K1A 0S5,Canada",Travaux publics et Services gouvernementaux Canada,"11, rue Laurier, Phase III, Place du Portage,Gatineau,Québec,K1A 0S5,Canada","Major, Andrea",andrea.major@tpsgc-pwgsc.gc.ca,(403) 796-3230 (    ),,"Place du Portage, Phase III<br>Tower c<br>11 Laurier Street, 6C2<br>11, rue Laurier<br>Gatineau",Gatineau,Gatineau,K1A0S5,,"Place du Portage, Phase III<br>Tower c<br>11 Laurier Street, 6C2<br>11, rue Laurier<br>Gatineau",Gatineau,Gatineau,,,,https://canadabuys.canada.ca/documents/pub/att/2025/01/06/cd41d4a1da59592bb4366922303ad39b/ABES.PROD.PW_MER.B005.E29423.EBSU000.PDF,https://canadabuys.canada.ca/documents/pub/att/2025/01/06/5519df389120745d2a404072c2edf7d1/ABES.PROD.PW_MER.B005.F29423.EBSU000.PDF,"Trade Agreement: CETA/WTO-AGP/CPTPP/CFTA/FTAs with Peru/Colombia/Panama/Korea/UK
+Tendering Procedures: All interested suppliers may submit a bid
+Competitive Procurement Strategy: Subsequent/Follow-on Contracts
+Comprehensive Land Claim Agreement: No
+Nature of Requirements: 
+
+
+Medium/Large Vessel Recycling Services
+
+EVC01-202003/C
+Major, Andrea
+Telephone No. - (403) 796-3230 
+
+This RFSA cancels and supersedes the previous RFSA number EVC01-202003/B. Suppliers that provided an arrangement for EVC01-202003/A or EVC01-202003/B are not required to submit a new arrangement, and do not need to take any action. 
+
+There are no changes from EVC01-202003/B to EVC01-202003/C. Version /C of the RFSA is being posted to extend the active solicitation period. 
+
+The Government of Canada through this RFSA, intends to establish and maintain SAs with suppliers to provide medium and large Vessel recycling and disposal services of any Vessel requiring dismantlement in a Vessel Recycling Facility, for one or more regions/sub-regions of Canada in accordance with the Statement of Requirement - Annex A.
+
+The RFSA includes two streams:
+
+Stream A - Medium size Vessels with lightship displacement of 300 MT or less; and
+
+Stream B - Large size Vessels with lightship displacement of over 300 MT. 
+
+There may be security requirements associated with some of the requirements under this RFSA. For more information on personnel and organization security screening or security clauses, Suppliers should refer to the Contract Security Program of Public Works and Government Services Canada (PWGSC).
+
+This RFSA is to establish supply arrangements for the delivery of the requirement detailed in the RFSA to the Identified Users across Canada, including geographic areas subject to Comprehensive Land Claims Agreements (CLCAs) and the Nunavut Land Claims Agreement (NLCA).
+
+To meet the Government of Canada’s objectives of encouraging Indigenous socio-economic development through federally funded opportunities, resulting bid solicitations from this RFSA may be set aside under the Procurement Strategy for Indigenous Business (PSIB) or may include an Indigenous Participation Plan (IPP). For additional information on PSIB refer to the Indigenous Business and federal procurement site and for additional information on the Indigenous Participation Plan refer to Annex H - Indigenous Participation Component. 
+
+Any resulting bid solicitation may be subject to the provisions of the trade agreements. Certain obligations under the trade agreements may not apply where the Vessel is located in the Nunavut region or an area covered by a modern treaty. If a set-aside for Indigenous businesses or an exception used of or relied upon (e.g. any measure adopted or maintained with respect to Indigenous Peoples, set-aside for minority businesses, etc.), some or all aspects of the procurement may not be subject to certain trade agreement obligations. 
+
+To ensure that the transboundary movement of hazardous wastes and other wastes is reduced to the minimum consistent with the environmentally sound and efficient management of such wastes, and to protect human health and the environment against the adverse effects which may result from the movement of vessels containing hazardous wastes, the Work must be performed within Canada.
+
+If the Contracting Authority, in its sole discretion, determines that the Work cannot be performed within Canada in an environmentally sound and efficient manner, or if there are no suppliers who can perform the Work in Canada, the Contracting Authority may consider bids from suppliers who propose to perform the Work in another country only if that country is a Party to the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal or Canada has concluded an agreement or an arrangement pursuant to Article 11 of the Convention with that non-Party.
+
+Canada has the right to reject any request to perform the Work in a country other than Canada if it has reason to believe that the Work will not be managed in an environmentally sound manner.
+
+Any resulting bid solicitation on behalf of the Department of National Defence may be subject to the Controlled Goods Program. For additional information on the Controlled Goods Program or how to register, consult the clause A9130T of the Standard Acquisition Clauses and Conditions Manual.  
+
+Any resulting SA may be used by any Government Department, Departmental Corporation or Agency, or other Crown entity described in the Financial Administration Act (as amended from time to time), and any other party for which the Department of Public Works and Government Services may be authorized to act from time to time under section 16 of the Department of Public Works and Government Services Act S.C 1996, c. 16 (each a ""Client"".
+Delivery Date: Above-mentioned
+
+The Crown retains the right to negotiate with suppliers on any procurement.
+
+Documents may be submitted in either official language of Canada.","Entente sur le commerce : AECG/OMC-AMP/PTPGP/ALEC/ALEs avec Pérou/Colombie/Panama/Corée/R-U
+Processus de demande des soumissions : Tout fournisseur intéressé peut présenter une soumission
+Stratégie d'approvisionnement concurrentielle : Marchés subséquents
+Entente sur les revendications territoriales globales : Non
+Nature des besoins : 
+
+Recyclage de bâtiments de tailles moyennes et grandes
+
+EVC01-202003/C
+Major, Andrea
+Telephone No. - (403) 796-3230 
+
+Cette DAMA annule et remplace la DAMA précédente numéro EVC01-202003/B. Les fournisseurs qui ont soumis un arrangement pour EVC01-202003/A ou EVC01-202003/B ne sont pas tenus de soumettre un nouvel arrangement et n'ont pas besoin de prendre d'autres mesures.
+
+Il n'y a aucun changement entre EVC01-202003/B et EVC01-202003/C. La version /C du RFSA est publiée pour prolonger la période de sollicitation active.
+
+Dans le cadre de la présente DAMA, le gouvernement du Canada prévoit mettre en place et maintenir des AMA avec des fournisseurs pour des services de recyclage et élimination de bâtiments de tailles moyennes et grandes qui requiert la démolition dans une installation de recyclage de bâtiment, pour une ou plusieurs régions/sous-régions du Canada, conformément à l’Énoncé des besoins (ÉdB) - Annexe A. 
+
+La DAMA inclus deux domaines :
+
+Domaine A : Bâtiments de tailles moyennes avec un poids lège de 300 métrique tonne et moins; et 
+
+Domaine B : Bâtiments de tailles grandes avec un poids lège de plus de 300 métrique tonne.
+
+Il est possible que certaines exigences comportent des exigences relatives à la sécurité. Pour de plus amples renseignements sur les enquêtes de sécurité sur le personnel et les organismes, les fournisseurs devraient consulter le site Web du Programme de sécurité des contrats de Travaux publics et Services gouvernementaux Canada. 
+
+La présente DAMA vise à établir des AMAs pour la livraison du besoin décrit dans les présentes aux utilisateurs désignés, et ce, partout au Canada, y compris dans les zones visées par des ententes sur les revendications territoriales globales (ERTG) et l’Accord sur les revendications territoriales du Nunavut (ARTN).
+
+Afin d’atteindre l’objectif du gouvernement du Canada qui consiste à favoriser le développement socio-économique des Autochtones au moyen de possibilités financées par le gouvernement fédéral, le marché pourrait être réservé aux titulaires d’AMA autochtones conformément à la Stratégie d’approvisionnement auprès des entreprises autochtones (SAEA) du gouvernement du Canada ou un Plan de participation des Autochtones (PPA) pourrait être exigé avec la soumission de tous les fournisseurs non-Autochtones titulaire d’AMA. Pour de plus amples renseignements concernant la SAEA, veuillez consulter le site des Entreprises autochtones et approvisionnement fédéral et pour des renseignements concernant les PPA, veuillez consulter l’annexe H - Volet de participation des Autochtones.
+
+Lorsque que les AMAs seront émises et que le gouvernement du Canada aura un besoin à combler, l’emplacement du bâtiment déterminera le processus de sélection des soumissionnaires pour la demande de soumissions. Par exemple, si le bâtiment est situé dans une région du Nunavut ou une région visée par un traité moderne, les obligations du Canada en ce qui a trait aux ERTG ou à l’ARTN applicables prévaudront. Après que l’emplacement du bâtiment a été vérifié pour des considérations autochtones, le marché pourrait être réservé pour les entreprises autochtones titulaires d’AMA pour la région où le bâtiment est situé ou tous les fournisseurs titulaires d’AMA pourraient être inviter à soumissionner.   
+
+Afin de s’assurer que les mouvements transfrontaliers de déchets dangereux et d'autres déchets soient réduits au minimum compatible avec une gestion écologiquement rationnelle et efficace de ces déchets, et protéger la santé humaine et l'environnement contre les effets néfastes pouvant résulter du mouvement de ces déchets. contenant des déchets dangereux, les travaux doivent être exécutés au Canada.
+
+Si l'autorité contractante, à sa seule discrétion, détermine que les travaux ne peuvent pas être exécutés au Canada d'une manière écologiquement rationnelle et efficace, ou si aucun fournisseur ne peut exécuter les travaux au Canada, l'autorité contractante peut considérer les offres de les fournisseurs qui proposent d'exécuter les travaux dans un autre pays seulement si ce pays est partie à la Convention de Bâle sur le contrôle des mouvements transfrontaliers de déchets dangereux et de leur élimination ou si le Canada a conclu un accord ou un arrangement conformément à l'article 11 de la Convention avec ce non-Partie.
+
+Le Canada a le droit de rejeter toute demande d'exécution des travaux dans un pays autre que le Canada s'il a des raisons de croire que les travaux ne seront pas gérés de manière écologiquement rationnelle.
+
+Ce besoin et toutes les demandes de soumissions connexes peuvent être assujettis aux dispositions des ententes sur le commerce. Les ententes sur le commerce seront exclues des exigences si le bâtiment est situé dans la région du Nunavut ou une région visée par un traité moderne. Si on utilise un marché réservé pour les entreprises autochtones ou une exception (p. ex. si des mesures sont adoptées ou maintenues relativement aux peuples autochtones, marché réservé pour les entreprises minoritaires, etc.), les aspects de l’approvisionnement peuvent, en totalité ou en partie, ne pas être assujettis à certaines obligations prévues dans les ententes sur le commerce.
+
+Les demandes de soumissions pour le ministère de la Défense nationale pourraient être assujetties au Programme des marchandises contrôlées. Pour de plus amples renseignements concernant le Programmes des marchandises contrôlées ou des précisions sur la façon de s’inscrire, veuillez consulter la clause A9130T du Guide des clauses et conditions uniformisées d’achat (CCUA). 
+
+Tout AMA subséquent peut être utilisé par tout ministère, tout organisme, toute société d’État, ou toute autre entité du gouvernement du Canada, y compris ceux qui sont mentionnés dans la Loi sur la gestion des finances publiques L.R.C. (1985), ch. F-11 telle qu’elle est modifiée de temps à autre, ou toute autre partie au nom de laquelle SPAC a été autorisé à agir de temps à autre en vertu de l’article 16 de la Loi sur le ministère des Travaux publics et des Services gouvernementaux L.C. 1996, ch. 16 (chacun étant un « client »).
+
+
+
+Date de livraison : Indiquée ci-dessus
+
+L'État se réserve le droit de négocier les conditions de tout marché avec les fournisseurs.
+
+Les documents peuvent être présentés dans l'une ou l'autre des langues officielles du Canada.",Alberta,lumber,,,keyword,log,https://canadabuys.canada.ca/documents/pub/att/2025/01/06/cd41d4a1da59592bb4366922303ad39b/ABES.PROD.PW_MER.B005.E29423.EBSU000.PDF;https://canadabuys.canada.ca/documents/pub/att/2025/01/06/5519df389120745d2a404072c2edf7d1/ABES.PROD.PW_MER.B005.F29423.EBSU000.PDF,,,,
+Furniture for Work Spaces,Mobilier pour des espaces de travail,PW-__PQ-992-74154,019,E60PQ-140003/C,2018-01-18,2029-04-23T14:00:00,2021-12-24,,,Open,Ouvert,*N7110,*Office Furniture,*Meubles de bureau,,,,*GD,Request for Proposal,Demande de propositions,Competitive - Open bidding,Concurrentielle - Invitation ouverte à soumissionner,Highest Combined Rating of Technical Merit and Price,Cote combinée la plus élevée pour le mérite technique et le prix,,,,,,,"*British Columbia
+*Saskatchewan
+*Manitoba
+*Ontario (except NCR)
+*Nunavut Territory
+*National Capital Region (NCR)
+*Northwest Territories
+*Newfoundland and Labrador
+*Prince Edward Island
+*Alberta
+*New Brunswick
+*Quebec (except NCR)
+*Nova Scotia
+*Yukon","*Colombie-Britannique
+*Saskatchewan
+*Manitoba
+*Ontario (sauf RCN)
+*Territoire du Nunavut
+*Région de la capitale nationale (RCN)
+*Territoires du Nord-Ouest
+*Terre-Neuve-et-Labrador
+*Île-du-Prince-Édouard
+*Alberta
+*Nouveau-Brunswick
+*Québec (sauf RCN)
+*Nouvelle-Écosse
+*Yukon",Public Works and Government Services Canada,"11 Laurier St, Phase III, Place du Portage",Gatineau,Quebec,K1A 0S5,Canada,Travaux publics et Services gouvernementaux Canada,"11, rue Laurier, Phase III, Place du Portage",Gatineau,Québec,Canada,Public Works and Government Services Canada,"11 Laurier St, Phase III, Place du Portage,Gatineau,Quebec,K1A 0S5,Canada",Travaux publics et Services gouvernementaux Canada,"11, rue Laurier, Phase III, Place du Portage,Gatineau,Québec,K1A 0S5,Canada","Vlahos, Helen",helen.vlahos@tpsgc-pwgsc.gc.ca,(613) 220-8951 (    ),,"L'Esplanade Laurier,<br>East Tower 7th Floor<br>Tour est 7e étage,<br>140 O'Connor, Street,<br>140 O'Connor, rue O'Connor",Ottawa,Ontario,K1A 0R5,,"L'Esplanade Laurier,<br>East Tower 7th Floor<br>Tour est 7e étage,<br>140 O'Connor, Street,<br>140 O'Connor, rue O'Connor",Ottawa,Ontario,,,,"https://canadabuys.canada.ca/documents/pub/att/2018/01/18/ae2d2ccbe3e646be69c68d20a22d22a4/annexes_and_appendices-eng.zip,https://canadabuys.canada.ca/documents/pub/att/2018/10/17/0d29daacf6a10851b18c60410049a43d/ABES.PROD.PW__PQ.B992.E74154.EBSU011.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/07/18/4714d16fd64ddc27c8da5028b3f53c85/ABES.PROD.PW__PQ.B992.E74154.EBSU008.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/77cae352724a8c9bc6bf51f33ea302e2/annexes_and_appendices-v-c.4-eng.zip,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/00d246f7e3476e0b3cfffed99292a427/product_catalogue_and_pricing_template-v-c.4-english.zip,https://canadabuys.canada.ca/documents/pub/att/2018/07/20/254d8a40d11a89d64022a419107ce10e/product_catalogue_and_pricing_template-v-c.3-english.zip,https://canadabuys.canada.ca/documents/pub/att/2021/02/04/706964e66b0fe4bd6d1a56bf0269f1ea/ABES.PROD.PW__PQ.B992.E74154.EBSU018.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/01/17/e8e1e2d6214dbee60b8636745f9e33df/ABES.PROD.PW__PQ.B992.E74154.EBSU000.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/07/20/0d648ccf548cc2c12bd9de332e8b1c26/annexes_and_appendices-v-c.3-eng.zip,https://canadabuys.canada.ca/documents/pub/att/2018/11/09/9cd46a9b6b9cf5419434d9275a8ff4f9/ABES.PROD.PW__PQ.B992.E74154.EBSU013.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/06/08/505636893e20ec0048445086ef5c6145/ABES.PROD.PW__PQ.B992.E74154.EBSU007.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/11/21/0b14751eb53b250a5f582e5481dc3e01/ABES.PROD.PW__PQ.B992.E74154.EBSU014.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/07/20/f8b01bd3e901126423ef2c44057b4d44/ABES.PROD.PW__PQ.B992.E74154.EBSU009.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/04/03/e08c2d37846e583bd24a8d5d7b6647f4/ABES.PROD.PW__PQ.B992.E74154.EBSU017.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/09/06/f8627cd2d5c86d151f0b349b3ae9367e/ABES.PROD.PW__PQ.B992.E74154.EBSU010.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/05/25/6cbd4fb14ae7229e57400f097f3c012b/ABES.PROD.PW__PQ.B992.E74154.EBSU006.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/05/04/417367197bcc3f50b9fb25d69177e549/ABES.PROD.PW__PQ.B992.E74154.EBSU004.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/03/28/cce64175a06d6d8bac3c01567d0043ab/ABES.PROD.PW__PQ.B992.E74154.EBSU003.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/01/25/714e36fca6c92fb44c7d199ebda7371b/ABES.PROD.PW__PQ.B992.E74154.EBSU001.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/03/08/2369a9cb4155e607c12d57f7f78b1026/ABES.PROD.PW__PQ.B992.E74154.EBSU002.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/10511972d9508a86acc777e96f3bfb17/annexes_et_appendices-v-c.4-fr.zip,https://canadabuys.canada.ca/documents/pub/att/2018/10/30/642a7af6575f38b15bcba20569ac9adf/ABES.PROD.PW__PQ.B992.E74154.EBSU012.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/01/26/106186e501a30028a0d2dd65500519be/product_catalogue_and_pricing_template-v-c.2-english.zip,https://canadabuys.canada.ca/documents/pub/att/2018/12/20/52458a6794261be53e32994f47a226c3/ABES.PROD.PW__PQ.B992.E74154.EBSU015.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/01/09/77c61d8dd674d40642740d69ed3ea0d6/ABES.PROD.PW__PQ.B992.E74154.EBSU016.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/05/18/e27b9af9e824f0ab127d2cd39641aecd/ABES.PROD.PW__PQ.B992.E74154.EBSU005.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/73c0003c1044f5e33bc684a4dba715b5/modele_de_catalogue_de_produits_et_de_prix-v-c.4-french.zip,https://canadabuys.canada.ca/documents/pub/att/2021/12/23/a896afda0cb19045bfc69bc3563a8e39/ABES.PROD.PW__PQ.B992.E74154.EBSU019.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/01/18/b90541d4bdce45fe461b12d2faa2a999/product_catalogue_and_pricing_template-english.zip","https://canadabuys.canada.ca/documents/pub/att/2018/10/30/0b8cfb64dbaa1625267f3069235ff7f1/ABES.PROD.PW__PQ.B992.F74154.EBSU012.PDF,https://canadabuys.canada.ca/documents/pub/att/2021/12/23/4154ab2575221a9302516a320e9fe354/ABES.PROD.PW__PQ.B992.F74154.EBSU019.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/00d246f7e3476e0b3cfffed99292a427/product_catalogue_and_pricing_template-v-c.4-english.zip,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/73c0003c1044f5e33bc684a4dba715b5/modele_de_catalogue_de_produits_et_de_prix-v-c.4-french.zip,https://canadabuys.canada.ca/documents/pub/att/2018/01/18/8a88474bc292576456c09f928d5854f3/modele_de_catalogue_de_produits_et_de_prix-french.zip,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/10511972d9508a86acc777e96f3bfb17/annexes_et_appendices-v-c.4-fr.zip,https://canadabuys.canada.ca/documents/pub/att/2018/01/17/4ba3662aca0ec1c3886879cd57ae1b50/ABES.PROD.PW__PQ.B992.F74154.EBSU000.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/03/08/3f3beda609b362cf69d2a302abc80c16/ABES.PROD.PW__PQ.B992.F74154.EBSU002.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/01/09/307665a7bb7bd4e7600c192939979b66/ABES.PROD.PW__PQ.B992.F74154.EBSU016.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/09/06/42bac829fcc912455bfcd186d9dc3737/ABES.PROD.PW__PQ.B992.F74154.EBSU010.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/06/08/3f4ed80a8fe599905a6e08848b52833c/ABES.PROD.PW__PQ.B992.F74154.EBSU007.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/10/17/741de276366dcfb986af264d66ca914d/ABES.PROD.PW__PQ.B992.F74154.EBSU011.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/11/09/5f34d96c7437fe69202fdaeda4c385ce/ABES.PROD.PW__PQ.B992.F74154.EBSU013.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/11/21/dd43b0375e841a02c6f295645fa7b6d9/ABES.PROD.PW__PQ.B992.F74154.EBSU014.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/12/20/9620857807a721c4be2775687a04c779/ABES.PROD.PW__PQ.B992.F74154.EBSU015.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/07/20/92c9293db2c53aea838484d9ff5a4fbe/annexes_et_appendices-v-c.3-fr.zip,https://canadabuys.canada.ca/documents/pub/att/2018/01/25/fe139cd6263b713629b049116802304f/ABES.PROD.PW__PQ.B992.F74154.EBSU001.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/04/03/5f1e199e0788cdba8510a5ebad49b2a9/ABES.PROD.PW__PQ.B992.F74154.EBSU017.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/05/18/c0ec2ad2bdaa40b1d213e7c338a20dd1/ABES.PROD.PW__PQ.B992.F74154.EBSU005.PDF,https://canadabuys.canada.ca/documents/pub/att/2019/04/04/77cae352724a8c9bc6bf51f33ea302e2/annexes_and_appendices-v-c.4-eng.zip,https://canadabuys.canada.ca/documents/pub/att/2018/01/26/5631e6c3db2326239d1eb86707d4c2b9/modele_de_catalogue_de_produits_et_de_prix-v-c.2-french.zip,https://canadabuys.canada.ca/documents/pub/att/2018/05/04/5359faae9ee528322f537a664f4fd385/ABES.PROD.PW__PQ.B992.F74154.EBSU004.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/07/20/15229c1652a27ae1c4b6ba4ca13f7402/ABES.PROD.PW__PQ.B992.F74154.EBSU009.PDF,https://canadabuys.canada.ca/documents/pub/att/2021/02/04/6d7514f2fa83634dcd7b0e51c98d5f35/ABES.PROD.PW__PQ.B992.F74154.EBSU018.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/07/20/7e6c416dec83893014412274f5053276/modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip,https://canadabuys.canada.ca/documents/pub/att/2018/03/28/97d8e8111e10da2e0806f594682f8ff2/ABES.PROD.PW__PQ.B992.F74154.EBSU003.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/01/18/492bccf4ba6e565fb09ac7e5b1628cbc/annexes_et_appendices-fr.zip,https://canadabuys.canada.ca/documents/pub/att/2018/07/18/8e59f7e66ee3bd83aa6bdd19264890b2/ABES.PROD.PW__PQ.B992.F74154.EBSU008.PDF,https://canadabuys.canada.ca/documents/pub/att/2018/05/25/cbf822e0211d9f93eb2740d0abdf166d/ABES.PROD.PW__PQ.B992.F74154.EBSU006.PDF","Trade Agreement: 
+Tendering Procedures: All interested suppliers may submit a bid
+Competitive Procurement Strategy: Best Overall  Proposal
+Comprehensive Land Claim Agreement: No
+Nature of Requirements: 
+
+Furniture for Work Spaces
+
+E60PQ-140003/C
+Vlahos, Helen
+Telephone No. - (613) 220-8951 
+
+Work Spaces-Refresh
+
+Amendment 019:
+
+This amendment 019 is raised to Re-Open the current RFSA E60PQ-140003/C to new submissions.
+
+-----------------------------------------------------------------------
+
+Amendment 018:
+
+This amendment 018 is to notify that we will no longer be accepting bids against E60PQ-140003/C
+
+____________________________________________________________________
+
+
+Amendment 017:
+
+This amendment is raised to publish modified RFSA, including Technical Specifications, Annexes, Appendices, and product_catalogue_and_pricing_template-v-c.4-english.zip 
+Please be advised that this Request for Supply Arrangement (RFSA) E60PQ-140003/C supersedes the previous RFSA E60PQ-140003/C dated July 20, 2018. (Modifications highlighted in yellow)
+_______________________________________________________________
+
+Amendment 016:
+
+This amendment 016 to E60PQ-140003/C is raised to Publish Questions and Answers 46-101
+_______________________________________________________________________
+
+Amendment 015
+
+This amendment 015 to E60PQ-140003/C is raised to:
+
+1- Extend submission date to January 31, 2019.
+2- NOTE: All products must be certified by an independent third-part certificate as compliant with the ANSI/BIFMA e3 Furniture Sustainability Standard and achieve a minimum of level® 2 by October 31, 2019. Once the certification is achieved, suppliers must submit a copy of their certificate to the SA authority. If certification is not achieved by October 31, 2019, the SA will be set aside until certification proof is provided.
+
+
+______________________________________________________________________
+
+Amendment 014:
+
+This amendment 014 to E60PQ-140003/C is raised to Publish Questions and Answers 35-45
+______________________________________________________________________
+
+Amendment 013
+
+This amendment 013 to E60PQ-140003/C is raised to:
+
+1- Extend submission date to Januray 9, 2019.
+2- Modify Part 5 Certifications and Additional Information 5.2.4 Product Conformance
+3- Modify Annex A-1 1.7 Environmental Attributes
+_______________________________________________________________________
+
+Amendment 012:
+
+This amendment 012 to E60PQ-140003/C is raised to Publish Questions and Answers 20-34
+_______________________________________________________________________
+
+Amendment 011:
+
+This amendment 011 to E60PQ-140003/C is raised to:
+
+1- Publish Questions and Answers 10-19
+2- Note: Questions will not be accepted after October 24, 2018.
+
+_______________________________________________________________________
+
+Amendment 010:
+
+This amendment 010 to E60PQ-140003/C is raised to Publish Phase 2 of Questions and Answers.
+
+____________________________________________________________________
+
+Amendment 009:
+
+This amendment is raised to publish modified RFSA, including Technical Specifications, Annexes, Appendices, and product_catalogue_and_pricing_template-v-c.3-english.zip 
+Please be advised that this Request for Supply Arrangement (RFSA) E60PQ-140003/C supersedes the previous RFSA E60PQ-140003/C dated January 17, 2018.
+Please NOTE: Evaluations will begin November 20, 2018
+_______________________________________________________________________
+
+
+Amendment 008:
+
+This amendment 008 to E60PQ-140003/C is raised for the following purpose:
+
+1- product_catalogue_and_pricing_template-v-c.3-english.zip, (available soon)
+2- Publish Questions and Answers
+_______________________________________________________________________
+
+Amendment 007:
+
+This amendment 007 to E60PQ-140003/C is raised for the following purpose:
+
+1- product_catalogue_and_pricing_template-v-c.3-english.zip, (available soon)
+2- Publish Questions and Answers
+_______________________________________________________________________
+
+Amendment 006:
+
+This amendment 006 to E60PQ-140003/C is raised for the following purpose:
+
+1- product_catalogue_and_pricing_template-v-c.3-english.zip, (available soon)
+2- Publish Questions and Answers
+_______________________________________________________________________
+
+Amendment 005:
+
+This amendment 005 to E60PQ-140003/C is raised for the following purpose:
+
+1- product_catalogue_and_pricing_template-v-c.3-english.zip, (available soon)
+2- Publish Questions and Answers
+_______________________________________________________________________
+
+Amendment 004:
+
+This amendment 004 to E60PQ-140003/C is raised for the following purpose:
+
+1- product_catalogue_and_pricing_template-v-c.3-english.zip, (available soon)
+2- Evaluations to begin August 31, 2018
+3- Publish Questions and Answers
+_______________________________________________________________________
+
+Amendment 003:
+
+This amendment 003 to E60PQ-140003/C is raised for the following purpose:
+
+1- Please refrain from working on the current version of:
+
+product_catalogue_and_pricing_template-v-c.2-english.zip published on Buy and Sell January 26, 2018, as it will be replaced with:
+
+product_catalogue_and_pricing_template-v-c.3-english.zip, (available soon)
+
+2- to publish questions and answers
+________________________________________________________________________
+
+Amendment 002:
+
+This amendment is raised to publish questions and answers 
+
+________________________________________________________________________
+
+
+Amendment 001:
+
+This amendment is raised for the following purpose:
+1- DELETE: product_catalogue_and_pricing_template-english.zip
+   INSERT: product_catalogue_and_pricing_template-v-C.2-english.zip
+
+2- to publish questions and answers 
+
+
+Trade Agreement: WTO-AGP/NAFTA/CFTA/Canada FTAs with Peru/Colombia/Panama/Chili
+Tendering Procedures: All interested suppliers may submit a bid
+Competitive Procurement Strategy: Lowest/Lower Bid
+Comprehensive Land Claim Agreement: No
+Requirement:
+This supersedes the previous Request for Supply Arrangement (RFSA) number E60PQ-140003/B
+E60PQ-140003/C
+Vlahos, Helen - 613-220-8951
+Paul Kavanagh - 819-639-5193
+RCNAmeublement.NCRFurniture@tpsgc-pwgsc.gc.ca
+
+Public Works and Government Services Canada (PWGSC) intends to establish SAs for the supply, delivery and installation of furniture for Work Spaces and Product Related Services as set out in the Request for Supply Arrangement (RFSA) to any authorized representative of a government department, agency or Crown corporation listed in Schedules I, I.1, II, III of the Financial Administration Act, R.S., 1985, c. F-11 on an ""as and when requested"" basis.
+The Procurement Strategy is to establish a pool of pre-qualified suppliers to fulfill requirements as described in the RFSA.
+Work Spaces is comprised of the following six (6) Categories: Category 1 - Interconnecting Panels and Freestanding Systems, Category 2 - Freestanding Height Adjustable Desk/Table Products, Category 3 - Metal Filing and Storage Cabinets, Category 4 - Wood Veneer Freestanding Products, Category 5 - Ancillary and lighting Products, and Category 6 - Support Space Furniture.
+Suppliers are not required to offer all products or Product Related Services to be issued an SA. For all products offered, Delivery and Installation is required when identified in the individual Bid Solicitations and resulting Contracts.
+Two streams of SAs are issued pursuant to this solicitation, as follows:
+
+A. a stream for the Procurement Strategy for Aboriginal Business (PSAB) (Work Coverage - National or Regional)
+
+B. a General stream (Work coverage - National)
+
+Suppliers will be issued no more than one SA per Stream.
+
+Security Requirement:
+There is no security requirement associated with the issuance of the resulting SA. However, the delivery and installation of the goods procured under this SA may be subject to security requirements. Any security requirements will be indicated in the bid solicitation and the appropriate clauses incorporated into the resulting Contract.
+
+Period of the SA: The resulting SA has no defined end-date and will remain valid until such time as Canada no longer considers it to be advantageous to use it.
+
+
+
+
+Delivery Date: 23/04/2029
+
+The Crown retains the right to negotiate with suppliers on any procurement.
+
+Documents may be submitted in either official language of Canada.","Entente sur le commerce : 
+Processus de demande des soumissions : Tout fournisseur intéressé peut présenter une soumission
+Stratégie d'approvisionnement concurrentielle : Meilleure  proposition globale
+Entente sur les revendications territoriales globales : Non
+Nature des besoins : 
+
+Mobilier pour des espaces de travail
+
+E60PQ-140003/C
+Vlahos, Helen
+N° de téléphone - (613) 220-8951 
+
+Mise-à-jour pour Espaces de travail
+
+Modification 019:
+
+Cette modification 019 est apportée pour rouvrir la DAMA actuelle E60PQ-140003/C aux nouvelles soumissions.
+
+----------------------------------------------------------------------
+
+Modification 018:
+
+Cette modification 018 vise à informer que nous n'accepterons plus d'offres contre E60PQ-140003 / C
+
+_______________________________________________________________________
+
+
+Amendment 017:
+
+Cette modification est émise afin de publier la DAMA modifiée, y compris les spécifications techniques, les annexes, les appendices et le modele_de_catalogue_de_produits_et_de_prix-v-c.4-french.zip 
+Veuillez prendre note que la présente Demande d'arrangements en matière d'approvisionnement (DAMA) E60PQ-140003/C remplace la DAMA précédente E60PQ-140003/C datée du 20 juillet 2018.(Modification surlignée en jaune)
+__________________________________________________________________
+Amendment 016:
+
+Cette modification 016 de E60PQ-140003/C est portée pour publier des questions et réponses 46-101
+_______________________________________________________________________
+
+Amendment 015
+
+Cette modification 015 de E60PQ-140003/C est portée pour :
+
+1- Prolonger la date de soumission jusqu'au 31 janvier 2019.
+2- REMARQUE: tous les produits doivent être certifiés conformes à la norme de durabilité de l'ameublement ANSI / BIFMA e3 par un tiers parti indépendant et atteindre au minimum le niveau 2 d'ici le 31 octobre 2019. Une fois la certification obtenue, les fournisseurs doivent soumettre une copie de leur certificat à l'autorité de l'AMA. Si la certification n'est pas obtenue avant le 31 octobre 2019, l'AMA sera mis de côté jusqu'à ce que la preuve de la certification soit fournie.
+
+
+______________________________________________________________________
+
+Amendment 014:
+
+Cette modification 014 de E60PQ-140003/C est portée pour publier des questions et réponses 35-45
+______________________________________________________________________
+
+Amendment 013
+
+Cette modification 013 de E60PQ-140003/C est portée pour :
+
+1- Prolonger la date de soumission jusqu'au 9 janvier 2019. 
+2- Modifier Partie 5-Attestations et Renseignements Supplémentaires, 5.2.4 Conformité des produits
+3- Modifier 1.7 Caractéristiques Environnementales 
+_______________________________________________________________________
+
+Amendment 012:
+
+Cette modification 012 de E60PQ-140003/C est portée pour publier des questions et réponses 20-34
+_______________________________________________________________________
+
+Amendment 011:
+
+Cette modification 011 de E60PQ-140003/C est portée pour:
+
+1- publier des questions et réponses 10-19
+2- Note: Les questions ne seront pas acceptées après le 24 octobre 2018.
+
+_______________________________________________________________________
+
+Modification 010
+
+Cette modification 010 de E60PQ-140003/C est portée pour publier la phase 2 des questions et réponses.
+
+___________________________________________________________________
+
+Modification 009:
+
+Cette modification est émise afin de publier la DAMA modifiée, y compris les spécifications techniques, les annexes, les appendices et le modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip 
+Veuillez prendre note que la présente Demande d'arrangements en matière d'approvisionnement (DAMA) E60PQ-140003/C remplace la DAMA précédente E60PQ-140003/C datée du 17 janvier 2018.
+« Veuillez noter que les évaluations débuteront le 20 novembre 2018 »
+_______________________________________________________________________
+
+
+Modification 008:
+
+Cette modification 008 de E60PQ-140003/C est portée pour l'objectif suivant :
+
+1- modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip (disponible sous peu).
+2- de publier des questions et réponses
+_______________________________________________________________________________
+
+Modification 007:
+
+Cette modification 007 de E60PQ-140003/C est portée pour l'objectif suivant :
+
+1- modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip (disponible sous peu).
+2- de publier des questions et réponses
+_______________________________________________________________________
+
+Modification 006:
+
+Cette modification 006 de E60PQ-140003/C est portée pour l'objectif suivant :
+
+1- modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip (disponible sous peu).
+2- de publier des questions et réponses
+_______________________________________________________________________
+
+Modification 005:
+Cette modification 005 de E60PQ-140003/C est portée pour l'objectif suivant :
+
+1- modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip (disponible sous peu).
+2- de publier des questions et réponses
+_______________________________________________________________________
+
+Modification 004:
+Cette modification 004 de E60PQ-140003/C est portée pour l'objectif suivant :
+
+1- modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip (disponible sous peu).
+2- Évaluations à partir du 31 août 2018
+3- de publier des questions et réponses
+_______________________________________________________________________
+Modification 003:
+
+Cette modification 003 de E60PQ-140003/C est portée pour l'objectif suivant :
+
+1- Veuillez ne pas travailler sur la version :
+
+modele_de_catalogue_de_produits_et_de_prix-v-c.2-french.zip qui a été publié sur Achats et ventes le 26 janvier dernier comme il sera remplacé par : 
+modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip (disponible sous peu)
+
+2- de publier des questions et réponses
+________________________________________________________________________
+
+Modification 002:
+
+Cette modification est soulevée de publier des questions et réponses
+
+________________________________________________________________________
+
+Modification 001:
+
+Cette modification est soulevée dans le but suivant:
+
+1- SUPPRIMER: modele_de_catalogue_de_produits_et_de_prix-french.zip
+   INSÉRER: modele_de_catalogue_de_produits_et_de_prix-v-C.2-french.zip
+
+2- de publier des questions et réponses.
+
+
+Accords Commerciaux : OMC-AMP/ALÉNA/ALEC/et les ALÉ entre Canada et Pérou/Colombie/Panama/Chili
+Processus de demande des soumissions : Tout fournisseur intéressé peut présenter une soumission
+Stratégie d'approvisionnement concurrentielle : Soumissionnaire le moins-disant
+Entente sur les revendications territoriales globales : Non
+
+Besoin :
+Ceci remplace la précédente Demande d'Arrangement en Matière d'Approvisionnement (DAMA) numéro E60PQ-140003/B
+
+E60PQ-140003/C
+Vlahos, Helen - 613-220-8951
+Paul Kavanagh - 819-639-5193
+RCNAmeublement.NCRFurniture@tpsgc-pwgsc.gc.ca
+
+Travaux publics et Services gouvernementaux Canada (TPSGC) a l'intention d'établir des Arrangements en Matière d'Approvisionnement (AMA) pour la fourniture, la livraison et l'installation de produits pour les Espace de travail, et les services liés aux produits conformément à la demande d'arrangement en matière d'approvisionnement (RFSA) à tout représentant autorisé d'un ministère, d'une agence ou d'une société d'État Énumérés aux annexes I, I.1, II, III de la Loi sur la gestion des finances publiques, LR 1985, c. F-11 sur une base «en tant que de besoin».
+
+La Stratégie d'approvisionnement consiste à établir une liste de fournisseurs pré-qualifiés pour satisfaire aux exigences décrites dans la RFSA.
+
+Les six (6) catégories suivantes font partie des espaces de travail : Catégorie 1 - Système de cloisons interraccordables et autostables; Catégorie 2 - Tables ou bureaux autostables à hauteur réglable; Catégorie 3 - Classeurs et armoires de rangement en métal; Catégorie 4 - Mobilier autostable en placage de bois; Catégorie 5 - Équipements auxiliaires et appareils d'éclairage; Catégorie 6 - Meubles des locaux de soutien.
+
+Les soumissionnaires ne sont pas tenus de proposer un prix pour tous les produits ou les services liés aux produits identifiés dans la demande afin de recevoir un arrangement en matière d'approvisionnement. La livraison et l'installation doivent être assurées pour tous les produits, lorsqu'il en est fait mention dans les demandes de soumissions et les contrats subséquents individuels.
+Deux Volets d'AMA peuvent être émise dans le cadre de la présente demande de soumissions :
+
+A. un volet pour la Stratégie d'Approvisionnement auprès des entreprises autochtones (SAEA) (portée des travaux nationale ou régionale);
+B. un volet Général (portée des travaux nationale).
+
+Les fournisseurs ne recevront qu'une seule AMA par volet.
+
+Exigences relatives à la sécurité :
+L'émission de l'AMA subséquent ne comporte aucune exigence relative à la sécurité. Cependant, la livraison et l'installationdes biens achetés dans le cadre du présent AMA peuvent être soumises à des exigences relatives à la sécurité. Toutes les exigences relatives à la sécurité seront comprises dans la demande de soumissions et les clauses appropriées seront intégrées dans le contrat subséquent.
+
+Durée de l'arrangement en matière d'approvisionnement : 
+L'AMA subséquent n'a pas de date de fin définie et demeurera en vigueur tant et aussi longtemps que le Canada le jugera utile.
+
+
+Date de livraison : 23/04/2029
+
+L'État se réserve le droit de négocier les conditions de tout marché avec les fournisseurs.
+
+Les documents peuvent être présentés dans l'une ou l'autre des langues officielles du Canada.",Alberta,lumber,,,keyword,log;wood,https://canadabuys.canada.ca/documents/pub/att/2018/01/18/ae2d2ccbe3e646be69c68d20a22d22a4/annexes_and_appendices-eng.zip;https://canadabuys.canada.ca/documents/pub/att/2018/10/17/0d29daacf6a10851b18c60410049a43d/ABES.PROD.PW__PQ.B992.E74154.EBSU011.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/07/18/4714d16fd64ddc27c8da5028b3f53c85/ABES.PROD.PW__PQ.B992.E74154.EBSU008.PDF;https://canadabuys.canada.ca/documents/pub/att/2019/04/04/77cae352724a8c9bc6bf51f33ea302e2/annexes_and_appendices-v-c.4-eng.zip;https://canadabuys.canada.ca/documents/pub/att/2019/04/04/00d246f7e3476e0b3cfffed99292a427/product_catalogue_and_pricing_template-v-c.4-english.zip;https://canadabuys.canada.ca/documents/pub/att/2018/07/20/254d8a40d11a89d64022a419107ce10e/product_catalogue_and_pricing_template-v-c.3-english.zip;https://canadabuys.canada.ca/documents/pub/att/2021/02/04/706964e66b0fe4bd6d1a56bf0269f1ea/ABES.PROD.PW__PQ.B992.E74154.EBSU018.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/01/17/e8e1e2d6214dbee60b8636745f9e33df/ABES.PROD.PW__PQ.B992.E74154.EBSU000.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/07/20/0d648ccf548cc2c12bd9de332e8b1c26/annexes_and_appendices-v-c.3-eng.zip;https://canadabuys.canada.ca/documents/pub/att/2018/11/09/9cd46a9b6b9cf5419434d9275a8ff4f9/ABES.PROD.PW__PQ.B992.E74154.EBSU013.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/06/08/505636893e20ec0048445086ef5c6145/ABES.PROD.PW__PQ.B992.E74154.EBSU007.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/11/21/0b14751eb53b250a5f582e5481dc3e01/ABES.PROD.PW__PQ.B992.E74154.EBSU014.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/07/20/f8b01bd3e901126423ef2c44057b4d44/ABES.PROD.PW__PQ.B992.E74154.EBSU009.PDF;https://canadabuys.canada.ca/documents/pub/att/2019/04/03/e08c2d37846e583bd24a8d5d7b6647f4/ABES.PROD.PW__PQ.B992.E74154.EBSU017.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/09/06/f8627cd2d5c86d151f0b349b3ae9367e/ABES.PROD.PW__PQ.B992.E74154.EBSU010.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/05/25/6cbd4fb14ae7229e57400f097f3c012b/ABES.PROD.PW__PQ.B992.E74154.EBSU006.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/05/04/417367197bcc3f50b9fb25d69177e549/ABES.PROD.PW__PQ.B992.E74154.EBSU004.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/03/28/cce64175a06d6d8bac3c01567d0043ab/ABES.PROD.PW__PQ.B992.E74154.EBSU003.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/01/25/714e36fca6c92fb44c7d199ebda7371b/ABES.PROD.PW__PQ.B992.E74154.EBSU001.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/03/08/2369a9cb4155e607c12d57f7f78b1026/ABES.PROD.PW__PQ.B992.E74154.EBSU002.PDF;https://canadabuys.canada.ca/documents/pub/att/2019/04/04/10511972d9508a86acc777e96f3bfb17/annexes_et_appendices-v-c.4-fr.zip;https://canadabuys.canada.ca/documents/pub/att/2018/10/30/642a7af6575f38b15bcba20569ac9adf/ABES.PROD.PW__PQ.B992.E74154.EBSU012.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/01/26/106186e501a30028a0d2dd65500519be/product_catalogue_and_pricing_template-v-c.2-english.zip;https://canadabuys.canada.ca/documents/pub/att/2018/12/20/52458a6794261be53e32994f47a226c3/ABES.PROD.PW__PQ.B992.E74154.EBSU015.PDF;https://canadabuys.canada.ca/documents/pub/att/2019/01/09/77c61d8dd674d40642740d69ed3ea0d6/ABES.PROD.PW__PQ.B992.E74154.EBSU016.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/05/18/e27b9af9e824f0ab127d2cd39641aecd/ABES.PROD.PW__PQ.B992.E74154.EBSU005.PDF;https://canadabuys.canada.ca/documents/pub/att/2019/04/04/73c0003c1044f5e33bc684a4dba715b5/modele_de_catalogue_de_produits_et_de_prix-v-c.4-french.zip;https://canadabuys.canada.ca/documents/pub/att/2021/12/23/a896afda0cb19045bfc69bc3563a8e39/ABES.PROD.PW__PQ.B992.E74154.EBSU019.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/01/18/b90541d4bdce45fe461b12d2faa2a999/product_catalogue_and_pricing_template-english.zip;https://canadabuys.canada.ca/documents/pub/att/2018/10/30/0b8cfb64dbaa1625267f3069235ff7f1/ABES.PROD.PW__PQ.B992.F74154.EBSU012.PDF;https://canadabuys.canada.ca/documents/pub/att/2021/12/23/4154ab2575221a9302516a320e9fe354/ABES.PROD.PW__PQ.B992.F74154.EBSU019.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/01/18/8a88474bc292576456c09f928d5854f3/modele_de_catalogue_de_produits_et_de_prix-french.zip;https://canadabuys.canada.ca/documents/pub/att/2018/01/17/4ba3662aca0ec1c3886879cd57ae1b50/ABES.PROD.PW__PQ.B992.F74154.EBSU000.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/03/08/3f3beda609b362cf69d2a302abc80c16/ABES.PROD.PW__PQ.B992.F74154.EBSU002.PDF;https://canadabuys.canada.ca/documents/pub/att/2019/01/09/307665a7bb7bd4e7600c192939979b66/ABES.PROD.PW__PQ.B992.F74154.EBSU016.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/09/06/42bac829fcc912455bfcd186d9dc3737/ABES.PROD.PW__PQ.B992.F74154.EBSU010.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/06/08/3f4ed80a8fe599905a6e08848b52833c/ABES.PROD.PW__PQ.B992.F74154.EBSU007.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/10/17/741de276366dcfb986af264d66ca914d/ABES.PROD.PW__PQ.B992.F74154.EBSU011.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/11/09/5f34d96c7437fe69202fdaeda4c385ce/ABES.PROD.PW__PQ.B992.F74154.EBSU013.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/11/21/dd43b0375e841a02c6f295645fa7b6d9/ABES.PROD.PW__PQ.B992.F74154.EBSU014.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/12/20/9620857807a721c4be2775687a04c779/ABES.PROD.PW__PQ.B992.F74154.EBSU015.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/07/20/92c9293db2c53aea838484d9ff5a4fbe/annexes_et_appendices-v-c.3-fr.zip;https://canadabuys.canada.ca/documents/pub/att/2018/01/25/fe139cd6263b713629b049116802304f/ABES.PROD.PW__PQ.B992.F74154.EBSU001.PDF;https://canadabuys.canada.ca/documents/pub/att/2019/04/03/5f1e199e0788cdba8510a5ebad49b2a9/ABES.PROD.PW__PQ.B992.F74154.EBSU017.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/05/18/c0ec2ad2bdaa40b1d213e7c338a20dd1/ABES.PROD.PW__PQ.B992.F74154.EBSU005.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/01/26/5631e6c3db2326239d1eb86707d4c2b9/modele_de_catalogue_de_produits_et_de_prix-v-c.2-french.zip;https://canadabuys.canada.ca/documents/pub/att/2018/05/04/5359faae9ee528322f537a664f4fd385/ABES.PROD.PW__PQ.B992.F74154.EBSU004.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/07/20/15229c1652a27ae1c4b6ba4ca13f7402/ABES.PROD.PW__PQ.B992.F74154.EBSU009.PDF;https://canadabuys.canada.ca/documents/pub/att/2021/02/04/6d7514f2fa83634dcd7b0e51c98d5f35/ABES.PROD.PW__PQ.B992.F74154.EBSU018.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/07/20/7e6c416dec83893014412274f5053276/modele_de_catalogue_de_produits_et_de_prix-v-c.3-french.zip;https://canadabuys.canada.ca/documents/pub/att/2018/03/28/97d8e8111e10da2e0806f594682f8ff2/ABES.PROD.PW__PQ.B992.F74154.EBSU003.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/01/18/492bccf4ba6e565fb09ac7e5b1628cbc/annexes_et_appendices-fr.zip;https://canadabuys.canada.ca/documents/pub/att/2018/07/18/8e59f7e66ee3bd83aa6bdd19264890b2/ABES.PROD.PW__PQ.B992.F74154.EBSU008.PDF;https://canadabuys.canada.ca/documents/pub/att/2018/05/25/cbf822e0211d9f93eb2740d0abdf166d/ABES.PROD.PW__PQ.B992.F74154.EBSU006.PDF,,,,
+Terrestrial Archaeology Services – Supply Arrangement,Services d'archéologie terrestre - Arrangement en matière d'approvisionnement,cb-6322-42499867,009,5P300-23-0054/A,2023-06-09,2100-12-13T14:00:00,2024-12-12,,,Open,Ouvert,,,,*81151705,*Archaeological services,*Services archéologiques,*SRV,Request for Supply Arrangement,Demande pour un arrangement en matière d’approvisionnement,Competitive - Open bidding,Concurrentielle - Invitation ouverte à soumissionner,Variations or combinations of the above methods,Variations ou combinaisons des méthodes susmentionnées,,,"*Canada-Honduras Free Trade Agreement
+*Canada-Panama Free Trade Agreement
+*Canada-Korea Free Trade Agreement (CKFTA)
+*Canadian Free Trade Agreement (CFTA)
+*Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+*Canada-Ukraine Free Trade Agreement (CUFTA)
+*Canada-Chile Free Trade Agreement (CCFTA)
+*Canada-Colombia Free Trade Agreement
+*North American Free Trade Agreement (NAFTA)
+*Canada-Peru Free Trade Agreement (CPFTA)
+*World Trade Organization Agreement on Government Procurement (WTO GPA)
+*Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+*Canada-European Union Comprehensive Economic and Trade Agreement (CETA)","*Accord de libre-échange Canada-Honduras
+*Accord de libre-échange Canada-Panama
+*Accord de libre-échange Canada-Corée
+*Accord de libre-échange canadien (ALEC)
+*Accord de continuité commerciale Canada–Royaume-Uni (ACC Canada-Royaume-Uni)
+*Accord de libre-échange Canada-Ukraine (ALECU)
+*Accord de libre-échange Canada-Chili (ALECC)
+*Accord de libre-échange Canada-Colombie
+*Accord de libre-échange nord-américain (ALENA)
+*Accord de libre-échange Canada-Pérou (ALECP)
+*Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC)
+*Accord de Partenariat transpacifique global et progressiste (PTPGP)
+*Accord économique et commercial global (AECG) entre le Canada et l’Union européenne (UE)",*World,*Monde,"*Yukon
+*British Columbia
+*Indigenous Lands
+*Saskatchewan
+*Northwest Territories
+*Quebec (except NCR)
+*Prince Edward Island
+*Canada
+*New Brunswick
+*Ontario (except NCR)
+*Nova Scotia
+*National Capital Region (NCR)
+*Manitoba
+*Alberta
+*Newfoundland and Labrador","*Yukon
+*Colombie-Britannique
+*Terres Autochtones
+*Saskatchewan
+*Territoires du Nord-Ouest
+*Québec (sauf RCN)
+*Île-du-Prince-Édouard
+*Canada
+*Nouveau-Brunswick
+*Ontario (sauf RCN)
+*Nouvelle-Écosse
+*Région de la capitale nationale (RCN)
+*Manitoba
+*Alberta
+*Terre-Neuve-et-Labrador",Parks Canada,30 Victoria Street,Gatineau,Quebec,J8X 0B3,Canada,Parcs Canada,"30, rue Victoria",Gatineau,Québec,Canada,,,,,Nicholas Moïse,nicholas.moise@pc.gc.ca,(343) 585-4589,,30 Victoria Street,Gatineau ,Quebec,J8X 0B3,Canada,"30, rue Victoria",Gatineau,Québec,Canada,,,"https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.004_1.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.003.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.003.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a-archaeological-services.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.005.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendix-1---regional-areas-of-expertise.xlsx,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.002.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendix-2---archaeological-work-experience.xlsx,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.001.pdf","https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.002.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.004.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.003_0.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a-services-darcheologie-terrestre.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendice-2---experience-professionnelle-en-archeologie.xlsx,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendice-1---domaines-dexpertise-par-regions.xlsx,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.005.pdf,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.001.pdf","5P300-23-0054/A Terrestrial Archaeology Services – Supply Arrangement
+
+PARKS CANADA IS NOT CURRENTLY ACCEPTING BIDS VIA SAP ARIBA, YOU MUST SUBMIT YOUR BID VIA EMAIL AS INDICATED IN THE SOLICITATION DOCUMENT.
+
+The email address for responses to the Request for Supply Arrangement (RFSA) is
+archeologie-archaeology@pc.gc.ca.
+
+The maximum email file size that Parks Canada is capable of receiving is 15 megabytes. The Supplier is responsible for any failure attributable to the transmission or receipt of the emailed bid due to file size.
+
+The Supplier should be cognisant of the size of the email as a whole, and not only the attachments. Please take into consideration that some attachments, when sent, may be resized during the email transfer. If the email size is too large, the Supplier should send the bid in multiple emails properly labeled with the solicitation number, project name, and indicate how many emails are included (ex. 1 of 2).
+
+SUMMARY
+
+Parks Canada Agency (PCA) requires terrestrial archaeological services for protected heritage places. These may include: Archaeological Overview Assessments, Archaeological Inventory or Survey, Archaeological Impact Assessment, Implementation of Archaeological Mitigation Strategies, Archaeological Analysis, and Monitoring the Condition of Archaeological Resources.
+
+It is Parks Canada’s intention to award multiple Supply Arrangements from this solicitation process based on Regions and Sub-Regions throughout Canada, as outlined in the Request for Supply Arrangement.
+
+Contracts resulting from the SA will have a maximum limitation of expenditure of $1,000,000.00 (Applicable Taxes and fees are included).
+
+ON-GOING OPPORTUNITY FOR QUALIFICATION
+
+An on-going Opportunity for Qualification is available to allow new suppliers to become qualified.
+
+DURATION OF THE SUPPLY ARRANGEMENT
+
+The Supply Arrangement may be issued for a specific period as set out in the Supply Arrangement or until such time as Canada no longer considers it to be advantageous to use the Supply Arrangement to award contracts under the Supply Arrangement framework.
+
+COMPREHENSIVE LAND CLAIMS AGREEMENT
+
+This procurement is subject to the following comprehensive Land Claims Agreement(s):
+
+• James Bay and Northern Quebec Agreement
+• Northeastern Quebec Agreement
+• Nunavik Inuit Land Claims Agreement
+• Labrador Inuit Land Claims Agreement
+• Inuvialuit Final Agreement
+• Gwich'in Comprehensive Land Claims Agreement
+• Sahtu Dene and Metis Comprehensive Land Claims Agreement
+• Maa-Nulth First Nations Final Agreement
+• Champagne and Aishihik First Nations Final Agreement
+• Vuntut Gwitchin First Nation Final Agreement
+• Tr'ondëk Hwëch'in Final Agreement
+• Kluane First Nation Final Agreement
+
+INDIGENOUS PROCUREMENT
+
+PCA reserves the right to employ various strategies to enhance Indigenous opportunities. Under this Supply Arrangement, PCA may employ strategies which include, but are not limited to, the Procurement Strategy for Indigenous Business (PSIB), Indigenous Benefits Plans (IBP) and setting aside packages of work to Indigenous Supply Arrangement holders.
+
+SECURITY REQUIREMENT
+
+There is a security requirement associated with the requirements of the Supply Arrangement.
+
+New personnel security clearance requests will require mandatory fingerprints to initiate the criminal record check. The validity of an existing personnel security clearance issued by the Government of Canada is not affected by the change in the criminal record check process. Applicants who require a personnel security clearance are responsible for all costs associated with fingerprinting.
+
+ENQUIRIES
+
+All enquiries of a technical and contractual nature are to be submitted to the Supply Arrangement Authority or archeologie-archaeology@pc.gc.ca
+
+Suppliers should reference as accurately as possible the numbered item of the RFSA to which the enquiry relates. Care should be taken by Suppliers to explain each question in sufficient detail in order to enable Canada to provide an accurate answer. Technical enquiries that are of a proprietary nature must be clearly marked ""proprietary"" at each relevant item. Items identified as ""proprietary"" will be treated as such except where Canada determines that the enquiry is not of a proprietary nature. Canada may edit the question(s) or may request that Suppliers do so, so that the proprietary nature of the question(s) is eliminated, and the enquiry can be answered to all Suppliers. Enquiries not submitted in a form that can be distributed to all Suppliers may not be answered by Canada.
+
+INFORMATION
+
+National Parks Regulations require that all work is to be performed in accordance with the ordinances, laws, rules and regulations set out in the National Park Act.
+
+Suppliers that consider themselves qualified to provide this Work and intend to submit bids on this project should obtain documents from the Government Electronic Tendering Service through the Government of Canada tendering service at http://canadabuys.canada.ca/en/tender-opportunities. Addenda, when issued, will be available from the Government of Canada tendering service.
+
+The Crown retains the right to negotiate with suppliers on any procurement.
+
+Documents may be submitted in either official language of Canada. Parks Canada has made every effort to provide equivalent documents in both official languages, however, if you find any discrepancies between the English and French documents, please notify the Contracting Authority listed in this opportunity as soon as possible so that we can rectify the situation.","5P300-23-0054/A Services d’archéologie terrestre – Arrangement en matière d’approvisionnement
+
+ACTUELLEMENT, PARCS CANADA N'ACCEPTE PAS LES SOUMISSIONS VIA SAP ARIBA, VOUS DEVEZ SOUMETTRE VOTRE OFFRE PAR COURRIEL COMME QU’INDIQUÉ DANS LE DOCUMENT DE SOLLICITATION.
+
+L’adresse électronique pour les réponses à la demande d’arrangement en matière d'approvisionnement (DAMA) est archeologie-archaeology@pc.gc.ca.
+
+La taille maximale du fichier de courrier électronique que Parcs Canada est en mesure de recevoir est de 15 mégaoctets. Le fournisseur est responsable de toute erreur attribuable à la transmission ou à la réception de la soumission envoyée par courriel en raison de la taille du fichier.
+
+Le fournisseur doit être conscient de la taille du courriel dans son ensemble, et pas seulement des pièces jointes. Veuillez prendre en considération que certaines pièces jointes, lorsqu'elles sont envoyées, peuvent être redimensionnées pendant le transfert du courriel. Si la taille du courriel est trop importante, le fournisseur doit envoyer l'offre dans plusieurs courriels correctement étiquetés avec le numéro de la demande, le nom du projet, et indiquer combien de courriels sont inclus (ex. 1 de 2).
+
+SOMMAIRE
+
+L'Agence Parcs Canada (APC) a besoin de services archéologiques terrestres pour les lieux patrimoniaux protégés. Ces services peuvent comprendre : Étude de potentiel archéologique, inventaire archéologieque ou étude de relevé, analyse d'impacts sur les ressources archéologiques, mise en œuvre de mesures de mitigation, analyses archéologiques et évaluation de l'état des ressources archéologiques.
+
+Les contrats résultant de l’AMA auront une limitation des dépenses de 1 000 000,00 $ (taxes et frais applicables inclus).
+
+OCCASION DE QUALIFICATION CONTINUE
+
+Une occasion de qualification continue est disponible pour permettre à de nouveaux fournisseurs de se qualifier.
+
+DURÉE DE L’ARRANGEMENT EN MATIÈRE D’APPROVISIONNEMENT
+
+L'arrangement en matière d'approvisionnement peut être émis pour une période spécifique telle que définie dans l'arrangement en matière d'approvisionnement ou jusqu'à ce que le Canada ne considère plus qu'il est avantageux d'utiliser l'arrangement en matière d'approvisionnement pour attribuer des contrats dans le cadre de l'arrangement en matière d'approvisionnement.
+
+ENTENTE SUR LES REVENDICATIONS TERRITORIALES GLOBALES
+
+Le présent marché est soumis à l’entente sur les revendications territoriales globales suivantes :
+
+• Convention de la Baie-James et du Nord québécois
+• Convention du Nord-Est québécois
+• Accord sur les revendications territoriales des Inuit du Nunavik
+• Accord sur les revendications territoriales des Inuit du Labrador
+• Convention définitive des Inuvialuits
+• Entente sur les revendications territoriales globale des Gwich'ins
+• Entente sur la revendication territoriale globale des Dénés et Métis du Sahtu
+• Accord définitif des Premières nations maa-nulthes
+• Entente définitive des Premières nations de Champagne et de Aishihik
+• Entente définitive de la Première nation des Gwitchin Vuntut
+• Entente définitive des Tr'ondëk Hwëch'in
+• Entente définitive de la Première nation de Kluane
+
+APPROVISIONNEMENT AUPRÈS DES AUTOCHTONES
+
+L'APC se réserve le droit d'utiliser diverses stratégies pour améliorer les occasions offertes aux autochtones. Dans le cadre de cet accord, l'APC peut recourir à des stratégies qui comprennent, sans s'y limiter, la stratégie d’approvisionnement auprès des entreprises autochtones (SAEA), les plans d'avantages pour les autochtones (PAA) et réserver des portions de travaux à des titulaires d’un arrangements en matière d'approvisionnement autochtones.
+
+EXIGENCES RELATIVES À LA SÉCURITÉ
+
+La présente demande de soumissions comporte une exigence relative à la sécurité.
+
+Les nouvelles demandes de cotes de sécurité du personnel nécessiteront obligatoirement la prise des empreintes digitales aux fins de la vérification du casier judiciaire. La modification du processus de vérification du casier judiciaire n'a aucune incidence sur la validité d'une cote de sécurité du personnel en vigueur délivrée par le gouvernement du Canada. Tous les coûts associés à la prise des empreintes digitales sont à la charge des demandeurs qui ont besoin d'une cote de sécurité du personnel.
+
+DEMANDES DE RENSEIGNEMENTS
+
+Les demandes de renseignements de nature technique et contractuelle doivent être présentées au responsable de l’arrangement en matière d’approvisionnement ou archeologie-archaeology@pc.gc.ca.
+
+Les fournisseurs devraient citer le plus fidèlement possible le numéro de l'article de la DAMA auquel se rapporte la question et prendre soin d’énoncer chaque question de manière suffisamment détaillée pour que le Canada puisse y répondre avec exactitude. Les demandes de renseignements techniques qui ont un caractère « exclusif » doivent porter clairement la mention « exclusif » vis-à-vis de chaque article pertinent. Les éléments portant la mention « exclusif » feront l'objet d'une discrétion absolue, sauf dans les cas où le Canada considère que la demande de renseignements n’a pas un caractère exclusif. Dans ce cas, le Canada peut réviser les questions ou peut demander au fournisseur de le faire, afin d'en éliminer le caractère exclusif, et permettre la transmission des réponses à tous les fournisseurs. Le Canada peut ne pas répondre aux demandes de renseignements dont la formulation ne permet pas de les diffuser à tous les fournisseurs.
+
+RENSEIGNEMENTS
+
+Le Règlement sur les parcs nationaux exige que tous les travaux soient effectués en conformité avec les ordonnances, les lois, les règles et les règlements liés à la Loi sur les parcs nationaux.
+
+Les fournisseurs qui s’estiment qualifiés pour offrir les services en question et qui ont l’intention de présenter une soumission doivent obtenir les documents d’appel d’offres auprès du service d’appels d’offres électroniques du gouvernement à http://canadabuys.canada.ca/fr/occasions-de-marche. Par ailleurs, ils pourront se procurer, par ce service, tout addenda éventuel. Les entreprises qui choisissent de préparer leur offre en se fondant sur des documents provenant d’autres sources le font à leurs propres risques. Les soumissions tardives ne seront pas prises en considération.
+
+L’État se réserve le droit de négocier avec les fournisseurs les conditions de tout marché.
+
+Les documents peuvent être soumis dans l’une ou l’autre des langues officielles. Parcs Canada a mis tous les efforts possibles pour présenter des documents équivalents dans les deux langues officielles, toutefois, si vous trouvez des différences entre les documents anglais et les documents français, s.v.p. veuillez aviser l’autorité contractante dont le nom apparaît sur cette opportunité, le plus tôt possible pour que nous remédions la situation.",Alberta,lumber,,,keyword,log,https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.004_1.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.003.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.003.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a-archaeological-services.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.005.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendix-1---regional-areas-of-expertise.xlsx;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.002.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendix-2---archaeological-work-experience.xlsx;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/rfsa-5p300-23-0054a_amend.001.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.002.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.004.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.003_0.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a-services-darcheologie-terrestre.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendice-2---experience-professionnelle-en-archeologie.xlsx;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/appendice-1---domaines-dexpertise-par-regions.xlsx;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.005.pdf;https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/33461/dama-5p300-23-0054a_modif.001.pdf,,,,

@@ -5,21 +5,21 @@
   "attachment_urls_missing": 0,
   "attachment_urls_ok": 0,
   "attachment_urls_other": 0,
-  "attachment_urls_total": 117,
-  "generated_at_utc": "2026-01-12T19:02:10Z",
+  "attachment_urls_total": 81,
+  "generated_at_utc": "2026-01-15T19:35:46Z",
   "industry_counts": {
-    "lumber": 16,
-    "steel": 7
+    "lumber": 6,
+    "steel": 3
   },
-  "markdown_count": 20,
+  "markdown_count": 8,
   "markdown_dir": "C:\\Users\\chris\\WorkspaceAlberta\\output\\canadabuys\\projects",
   "match_sources": {
-    "keyword": 15,
-    "unspsc": 7
+    "keyword": 5,
+    "unspsc": 3
   },
-  "matched_total": 20,
-  "output_rows": 20,
-  "processed_total": 863,
+  "matched_total": 8,
+  "output_rows": 8,
+  "processed_total": 501,
   "regions": [
     "Alberta"
   ],

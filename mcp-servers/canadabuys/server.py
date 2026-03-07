@@ -128,6 +128,141 @@ def get_field(contract: dict, *field_names: str) -> str:
     return ""
 
 
+# ============== Business Profile ==============
+
+# Industry keywords for matching (from pipeline config)
+INDUSTRY_KEYWORDS = {
+    "steel": ["steel", "stainless", "carbon steel", "structural steel", "metal fabrication",
+              "welding", "iron", "metalwork", "rebar", "girder", "beam"],
+    "lumber": ["lumber", "wood", "timber", "forestry", "plywood", "sawmill", "log",
+               "pulp", "paper", "woodwork", "carpentry", "framing"],
+    "aluminum": ["aluminum", "aluminium", "bauxite", "smelting", "extrusion"],
+    "construction": ["construction", "building", "demolition", "renovation", "contractor",
+                     "infrastructure", "excavation", "concrete", "masonry"],
+}
+
+# UNSPSC code prefixes by industry (from pipeline config)
+INDUSTRY_UNSPSC = {
+    "steel": ["111017", "301017", "111016", "232400", "251000", "221000", "301000"],
+    "lumber": ["1112", "301515", "111215", "301524", "301521"],
+    "aluminum": ["1111", "111106", "301116"],
+    "construction": ["721", "301", "221", "251"],
+}
+
+
+def load_profile() -> dict:
+    """Load business profile from disk."""
+    profile_path = DATA_DIR / "profile.json"
+    if not profile_path.exists():
+        return {}
+    with profile_path.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_profile(profile: dict) -> None:
+    """Save business profile to disk."""
+    profile_path = DATA_DIR / "profile.json"
+    with profile_path.open("w", encoding="utf-8") as f:
+        json.dump(profile, f, indent=2)
+
+
+def extract_keywords(description: str) -> list[str]:
+    """Extract relevant keywords from business description."""
+    if not description:
+        return []
+
+    desc_lower = description.lower()
+    found = []
+
+    # Check for industry keywords
+    for industry, keywords in INDUSTRY_KEYWORDS.items():
+        for kw in keywords:
+            if kw in desc_lower and kw not in found:
+                found.append(kw)
+
+    # Also extract significant words (nouns likely to appear in contracts)
+    words = re.findall(r'\b[a-z]{4,}\b', desc_lower)
+    for word in words:
+        if word not in found and word not in ["that", "this", "with", "from", "have", "been", "will", "your", "they", "their", "about", "which", "would", "could", "should", "these", "those", "other", "some", "into", "also", "make", "made"]:
+            found.append(word)
+
+    return found[:20]  # Limit to 20 keywords
+
+
+def infer_industries(keywords: list[str], description: str = "") -> list[str]:
+    """Infer which industries match based on keywords."""
+    industries = set()
+    text = " ".join(keywords) + " " + description.lower()
+
+    for industry, kw_list in INDUSTRY_KEYWORDS.items():
+        for kw in kw_list:
+            if kw in text:
+                industries.add(industry)
+                break
+
+    return list(industries)
+
+
+def score_contract(contract: dict, profile: dict) -> tuple[int, list[str]]:
+    """Score a contract against a business profile. Returns (score, reasons)."""
+    score = 0
+    reasons = []
+
+    keywords = profile.get("capabilities", [])
+    industries = profile.get("industries", [])
+    location = profile.get("location", "").lower()
+
+    title = get_field(contract, "title-titre-eng", "title-titre-fra").lower()
+    desc = get_field(contract, "tenderDescription-descriptionAppelOffres-eng").lower()
+    regions = f"{get_field(contract, 'regionsOfOpportunity-regionAppelOffres-eng')} {get_field(contract, 'regionsOfDelivery-regionsLivraison-eng')}".lower()
+    unspsc = get_field(contract, "unspsc", "")
+
+    # Keyword matches in title (high value)
+    title_matches = [kw for kw in keywords if kw.lower() in title]
+    if title_matches:
+        score += 10 * len(title_matches)
+        reasons.append(f"title matches: {', '.join(title_matches[:3])}")
+
+    # Keyword matches in description
+    desc_matches = [kw for kw in keywords if kw.lower() in desc and kw.lower() not in title]
+    if desc_matches:
+        score += 5 * len(desc_matches)
+        reasons.append(f"description matches: {', '.join(desc_matches[:3])}")
+
+    # UNSPSC code matches
+    for industry in industries:
+        prefixes = INDUSTRY_UNSPSC.get(industry, [])
+        for prefix in prefixes:
+            if prefix in unspsc:
+                score += 15
+                reasons.append(f"UNSPSC code matches {industry}")
+                break
+
+    # Region match
+    if location:
+        # Extract province/city from location
+        loc_parts = [p.strip().lower() for p in location.replace(",", " ").split()]
+        for part in loc_parts:
+            if len(part) > 3 and part in regions:
+                score += 10
+                reasons.append(f"delivers to {part}")
+                break
+
+    # Closing soon bonus (urgency)
+    closing_str = get_field(contract, "tenderClosingDate-appelOffresDateCloture")
+    closing_date = parse_date(closing_str)
+    if closing_date:
+        now = datetime.now(timezone.utc)
+        if closing_date.tzinfo is None:
+            closing_date = closing_date.replace(tzinfo=timezone.utc)
+        days_until = (closing_date - now).days
+        if 0 < days_until <= 14:
+            score += 5
+            reasons.append(f"closes in {days_until} days")
+
+    return score, reasons
+
+
 def render_contract_markdown(contract: dict) -> str:
     """Render a contract as markdown."""
     title = get_field(contract, "title-titre-eng", "title-titre-fra", "Title")
@@ -238,6 +373,56 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {}
             }
+        ),
+        # ===== Business Profile Tools =====
+        Tool(
+            name="set_business_profile",
+            description="Tell me about your business. I'll save your profile and use it to find matching government contracts.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "company_name": {
+                        "type": "string",
+                        "description": "Your company name"
+                    },
+                    "location": {
+                        "type": "string",
+                        "description": "Where you're located (e.g., 'Edmonton, Alberta')"
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "What does your business do? Describe your products, services, and capabilities."
+                    }
+                },
+                "required": ["description"]
+            }
+        ),
+        Tool(
+            name="find_opportunities",
+            description="Find government contracts that match your business profile. Returns scored and ranked opportunities with explanations of why each one fits your capabilities.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "days": {
+                        "type": "integer",
+                        "description": "Only show contracts closing within N days (default: 60)",
+                        "default": 60
+                    },
+                    "limit": {
+                        "type": "integer",
+                        "description": "Maximum opportunities to return (default: 15)",
+                        "default": 15
+                    }
+                }
+            }
+        ),
+        Tool(
+            name="get_my_profile",
+            description="View your current business profile that's being used to match contracts.",
+            inputSchema={
+                "type": "object",
+                "properties": {}
+            }
         )
     ]
 
@@ -256,6 +441,13 @@ async def call_tool(name: str, arguments: dict[str, Any]) -> list[TextContent]:
             return await summarize_contracts(arguments)
         elif name == "refresh_data":
             return await refresh_data(arguments)
+        # Business Profile Tools
+        elif name == "set_business_profile":
+            return await set_business_profile(arguments)
+        elif name == "find_opportunities":
+            return await find_opportunities(arguments)
+        elif name == "get_my_profile":
+            return await get_my_profile(arguments)
         else:
             return [TextContent(type="text", text=f"Unknown tool: {name}")]
     except Exception as e:
@@ -404,6 +596,114 @@ async def refresh_data(args: dict) -> list[TextContent]:
         )]
     except Exception as e:
         return [TextContent(type="text", text=f"Error: {str(e)}")]
+
+
+# ============== Business Profile Handlers ==============
+
+async def set_business_profile(args: dict) -> list[TextContent]:
+    """Save business profile for smart matching."""
+    description = args.get("description", "")
+    if not description:
+        return [TextContent(type="text", text="Please describe your business.")]
+
+    # Extract keywords and infer industries
+    capabilities = extract_keywords(description)
+    industries = infer_industries(capabilities, description)
+
+    profile = {
+        "company_name": args.get("company_name", "My Business"),
+        "location": args.get("location", ""),
+        "description": description,
+        "capabilities": capabilities,
+        "industries": industries,
+    }
+
+    save_profile(profile)
+
+    output = "# Profile Saved!\n\n"
+    output += f"**Company:** {profile['company_name']}\n"
+    if profile['location']:
+        output += f"**Location:** {profile['location']}\n"
+    output += f"\n**Detected Industries:** {', '.join(industries) if industries else 'General'}\n"
+    output += f"**Keywords I'll search for:** {', '.join(capabilities[:10])}\n"
+    output += "\nUse `find_opportunities` to see matching contracts!"
+
+    return [TextContent(type="text", text=output)]
+
+
+async def find_opportunities(args: dict) -> list[TextContent]:
+    """Find contracts matching business profile."""
+    profile = load_profile()
+    if not profile:
+        return [TextContent(type="text", text="No business profile set. Use `set_business_profile` first to tell me about your business.")]
+
+    contracts = load_contracts()
+    if not contracts:
+        return [TextContent(type="text", text="No contract data available. Run `refresh_data` first.")]
+
+    days = args.get("days", 60)
+    limit = args.get("limit", 15)
+    now = datetime.now(timezone.utc)
+
+    # Score all contracts
+    scored = []
+    for contract in contracts:
+        # Check if closing date is within range
+        closing_str = get_field(contract, "tenderClosingDate-appelOffresDateCloture")
+        closing_date = parse_date(closing_str)
+
+        if closing_date:
+            if closing_date.tzinfo is None:
+                closing_date = closing_date.replace(tzinfo=timezone.utc)
+            days_until = (closing_date - now).days
+
+            if days_until < 0 or days_until > days:
+                continue  # Skip expired or too far out
+
+            score, reasons = score_contract(contract, profile)
+            if score > 0:
+                scored.append((score, days_until, contract, reasons))
+
+    # Sort by score descending
+    scored.sort(key=lambda x: -x[0])
+
+    if not scored:
+        return [TextContent(type="text", text=f"No matching opportunities found in the next {days} days.\n\nTry:\n- Updating your profile with more detail\n- Increasing the days parameter\n- Running `refresh_data` to get latest contracts")]
+
+    company = profile.get("company_name", "Your Business")
+    output = f"# Opportunities for {company}\n\n"
+    output += f"Found **{len(scored)}** matching contracts (showing top {min(limit, len(scored))})\n\n"
+
+    for i, (score, days_until, contract, reasons) in enumerate(scored[:limit], 1):
+        title = get_field(contract, "title-titre-eng", "title-titre-fra")[:70]
+        ref = get_field(contract, "referenceNumber-numeroReference")
+        entity = get_field(contract, "contractingEntityName-nomEntitContractante-eng")[:40]
+
+        output += f"### {i}. {title}\n"
+        output += f"**Match Score:** {score} | **Closes in:** {days_until} days\n"
+        output += f"**Why it matches:** {'; '.join(reasons)}\n"
+        output += f"**Entity:** {entity}\n"
+        output += f"**Reference:** `{ref}`\n\n"
+
+    output += "---\n*Use `get_contract_details` with a reference number to see full details.*"
+
+    return [TextContent(type="text", text=output)]
+
+
+async def get_my_profile(args: dict) -> list[TextContent]:
+    """Return current business profile."""
+    profile = load_profile()
+    if not profile:
+        return [TextContent(type="text", text="No business profile set yet.\n\nUse `set_business_profile` to tell me about your business!")]
+
+    output = "# Your Business Profile\n\n"
+    output += f"**Company:** {profile.get('company_name', 'Not set')}\n"
+    output += f"**Location:** {profile.get('location', 'Not set')}\n\n"
+    output += f"**Description:**\n{profile.get('description', 'Not set')}\n\n"
+    output += f"**Industries:** {', '.join(profile.get('industries', [])) or 'None detected'}\n"
+    output += f"**Keywords:** {', '.join(profile.get('capabilities', [])[:15])}\n"
+
+    return [TextContent(type="text", text=output)]
 
 
 async def main():
